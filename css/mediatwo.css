@@ -1,0 +1,15 @@
+@media screen and (max-width: 360px) {
+    .forgotpassmob{
+        width: 300px;
+        height: auto;
+    }s
+    .linePass-forgot {
+        width: unset; 
+    }
+    input.inppass {
+        width: 285px;
+    }
+    button.btnpass {
+        width: 100% !important;
+    }
+}

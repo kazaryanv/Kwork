@@ -1,0 +1,4673 @@
+@media screen and (max-width: 2800px) {
+    .conteiner {
+        max-width: 2800px;
+        width: 100%;
+        height: auto;
+    }
+
+    .header {
+        width: 2800px;
+        height: 100px;
+    }
+
+    .placetext {
+        width: 2000px;
+    }
+
+    .boxsilver {
+        width: 555px;
+        height: 468px;
+    }
+
+    .btn-lin-hover {
+        width: 465px;
+        height: 60px;
+    }
+
+    .url {
+        width: 200px;
+    }
+
+    .sevenday {
+        width: 1000px;
+    }
+
+    .sevendrop {
+        width: 980px;
+    }
+
+    .cheer {
+        right: 720px;
+    }
+
+    .formdiv {
+        width: 2000px;
+    }
+
+    .dropdawn {
+        width: 2000px;
+    }
+
+    .check {
+        width: 50px;
+        height: 50px;
+    }
+
+    .stile_grap>h3 {
+        font-size: 35px;
+        line-height: 45px;
+    }
+
+    .stile_grap>p {
+        font-size: 25px;
+        line-height: 30px;
+    }
+
+    .inpintv {
+        width: 2000px;
+    }
+
+    .save_for {
+        font-size: 35px;
+    }
+
+    .save {
+        font-size: 25px;
+    }
+}
+
+@media screen and (max-width: 2000px) {
+    .conteiner {
+        max-width: 2000px;
+        width: 100%;
+        height: auto;
+    }
+
+    .header {
+        width: 2000px;
+        height: 100px;
+    }
+
+    .placetext {
+        width: 1000px;
+    }
+
+    .boxsilver {
+        width: 392px;
+        height: 497px;
+    }
+
+    .Advertising {
+        width: 392px;
+        height: 497px
+    }
+
+    .btn-lin-hover {
+        width: 300px;
+        height: 50px;
+    }
+
+    .url {
+        width: 100px;
+    }
+
+    .section {
+        margin-left: 180px;
+        margin-right: 100px;
+
+    }
+
+    .sevenday {
+        width: 500px;
+    }
+
+    .sevendrop {
+        width: 490px;
+    }
+
+    .cheer {
+        right: 360px;
+    }
+
+    .formdiv {
+        width: 1000px;
+    }
+
+    .dropdawn {
+        width: 1000px;
+    }
+
+    .check {
+        width: 30px;
+        height: 30px;
+    }
+
+    .stile_grap>h3 {
+        font-size: 25px;
+        line-height: 20px;
+    }
+
+    .stile_grap>p {
+        font-size: 15px;
+        line-height: 20px;
+    }
+
+    .inpintv {
+        width: 1000px;
+    }
+
+    .save_for {
+        font-size: 20px;
+    }
+
+    .save {
+        font-size: 20px;
+    }
+}
+
+@media screen and (max-width: 1600px) {
+    .conteiner {
+        max-width: 1600px;
+        width: 100%;
+        height: auto;
+    }
+
+    .header {
+        width: 1600px;
+        height: 100px;
+    }
+
+    .placetext {
+        width: 800px;
+    }
+
+    .boxsilver {
+        width: 392px;
+        height: 497px;
+    }
+
+    .btn-outline {
+        margin-right: 40px;
+    }
+
+    .btn-lin-hover {
+        width: 300px;
+        height: 50px;
+    }
+
+    .url {
+        width: 100px;
+    }
+
+    .sevenday {
+        width: 400px;
+    }
+
+    .sevendrop {
+        width: 390px;
+    }
+
+    .cheer {
+        right: 650px;
+    }
+
+    .formdiv {
+        width: 800px;
+    }
+
+    .dropdawn {
+        width: 800px;
+    }
+
+    .check {
+        width: 30px;
+        height: 30px;
+    }
+
+    .stile_grap>h3 {
+        font-size: 25px;
+        line-height: 15px;
+    }
+
+    .stile_grap>p {
+        font-size: 15px;
+        line-height: 30px;
+    }
+
+    .inpintv {
+        width: 800px;
+    }
+
+    .save_for {
+        font-size: 15px;
+    }
+
+    .save {
+        font-size: 15px;
+    }
+}
+
+@media screen and (max-width: 1440px) {
+    .conteiner {
+        max-width: 1440px;
+        width: 100%;
+        height: auto;
+    }
+
+    .header {
+        width: 1440px;
+        height: 100px;
+    }
+
+    .placetext {
+        width: 800px;
+    }
+
+    .boxsilver {
+        width: 392px;
+        height: 497px;
+    }
+
+    .btn-outline {
+        margin-right: 10px;
+    }
+
+    .btn-lin-hover {
+        width: 300px;
+        height: 50px;
+    }
+
+    .url {
+        width: 100px;
+    }
+
+    .sevenday {
+        width: 360px;
+    }
+
+    .sevendrop {
+        width: 365px;
+        height: 47px;
+    }
+
+    .cheer {
+        right: 550px;
+    }
+
+    .formdiv {
+        width: 800px;
+    }
+
+    .dropdawn {
+        width: 800px;
+    }
+
+    .check {
+        width: 30px;
+        height: 30px;
+    }
+
+    .stile_grap>h3 {
+        font-size: 15px;
+        line-height: 10px;
+    }
+
+    .stile_grap>p {
+        font-size: 12px;
+        line-height: 22px;
+    }
+
+    .inpintv {
+        width: 800px;
+    }
+
+    .save_for {
+        font-size: 16px;
+    }
+
+    .save {
+        font-size: 16px;
+    }
+
+    .save_line {
+        width: 40px;
+    }
+
+    .Advertising {
+        width: 392px;
+        height: 497px;
+    }
+
+    .section {
+        margin-left: 100px;
+        margin-right: 100px;
+    }
+    div#lineresizetextarea {
+        display: block;
+    }
+}
+
+@media screen and (max-width: 1300px) {
+    .conteiner {
+        max-width: 1300px;
+        width: 100%;
+        height: auto;
+    }
+
+    .header {
+        width: 1300px;
+        height: 100px;
+    }
+
+    .placetext {
+        width: 680px;
+    }
+
+    .boxsilver {
+        width: 392px;
+        height: 497px;
+    }
+
+    .btn-outline {
+        margin-right: 40px;
+    }
+
+    .btn-lin-hover {
+        width: 300px;
+        height: 50px;
+    }
+
+    .url {
+        width: 100px;
+    }
+
+    .sevenday {
+        width: 330px;
+    }
+
+    .sevendrop {
+        width: 330px;
+    }
+
+    .cheer {
+        right: 550px;
+    }
+
+    .formdiv {
+        width: 680px;
+    }
+
+    .dropdawn {
+        width: 680px;
+    }
+
+    .check {
+        width: 30px;
+        height: 30px;
+    }
+
+    .stile_grap>h3 {
+        font-size: 15px;
+        line-height: 10px;
+    }
+
+    .stile_grap>p {
+        font-size: 10px;
+        line-height: 20px;
+    }
+
+    .inpintv {
+        width: 680px;
+    }
+
+    .save_for {
+        font-size: 10px;
+    }
+
+    .save {
+        font-size: 10px;
+    }
+
+    .Advertising {
+        width: 392px;
+        height: 497px;
+    }
+
+    span.loader_white {
+        left: 597px;
+    }
+    .notnecessary {
+        width: 330px;
+    }
+    .line_resize-textarea{
+        display: none;
+    }
+}
+
+@media screen and (max-width: 1280px) {
+    .passwordPassdiv {
+        height: 598px;
+    }
+    .notnecessary {
+        width: 230px;
+    }
+    .line_resize-textarea{
+        display: none !important;
+    }
+}
+
+@media screen and (max-width: 1200px) {
+    .conteiner {
+        max-width: 1200px;
+        width: 100%;
+        height: auto;
+    }
+    div#lineresizetextarea {
+        display: none;
+    }
+    .header {
+        width: 1200px;
+        height: 100px;
+    }
+
+    .placetext {
+        width: 580px;
+    }
+
+    .boxsilver {
+        width: 392px;
+        height: 497px;
+    }
+
+    .btn-outline {
+        margin-right: 40px;
+    }
+
+    .btn-lin-hover {
+        width: 300px;
+        height: 50px;
+    }
+
+    .url {
+        width: 100px;
+    }
+
+    .sevenday {
+        width: 280px;
+    }
+
+    .sevendrop {
+        width: 285px;
+    }
+
+    .cheer {
+        right: 550px;
+    }
+
+    .formdiv {
+        width: 580px;
+    }
+
+    .dropdawn {
+        width: 580px;
+    }
+
+    .check {
+        width: 30px;
+        height: 30px;
+    }
+
+    .stile_grap>h3 {
+        font-size: 15px;
+        line-height: 10px;
+    }
+
+    .stile_grap>p {
+        font-size: 10px;
+        line-height: 20px;
+    }
+
+    .inpintv {
+        width: 580px;
+    }
+
+    .save_for {
+        font-size: 10px;
+    }
+
+    .save {
+        font-size: 10px;
+    }
+
+    .Advertising {
+        width: 392px;
+        height: 497px;
+    }
+}
+
+@media screen and (max-width: 1100px) {
+    .conteiner {
+        max-width: 1100px;
+        width: 100%;
+        height: auto;
+    }
+    div#lineresizetextarea {
+        display: none;
+    }
+    .header {
+        width: 1100px;
+        height: 100px;
+    }
+
+    .placetext {
+        width: 800px;
+    }
+
+    .boxsilver {
+        display: none;
+    }
+
+    .btn-outline {
+        margin-right: 40px;
+    }
+
+    .btn-lin-hover {
+        width: 300px;
+        height: 50px;
+    }
+
+    .silv {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        height: auto;
+    }
+
+    .textinurl {
+        display: flex;
+        align-items: center;
+        flex-direction: column;
+        justify-content: center;
+    }
+
+    .url {
+        width: 90px;
+    }
+
+    .sevenday {
+        width: 400px;
+    }
+
+    .sevendrop {
+        width: 390px;
+    }
+
+    .cheer {
+        right: 220px;
+    }
+
+    .send {
+        width: 800px;
+        height: 50px;
+    }
+
+    .formdiv {
+        width: 800px;
+    }
+
+    .dropdawn {
+        width: 800px;
+    }
+
+    .check {
+        width: 30px;
+        height: 30px;
+    }
+
+    .stile_grap>h3 {
+        font-size: 15px;
+        line-height: 10px;
+    }
+
+    .stile_grap>p {
+        font-size: 10px;
+        line-height: 20px;
+    }
+
+    .inpintv {
+        width: 800px;
+    }
+
+    .save_for {
+        font-size: 10px;
+    }
+
+    .save {
+        font-size: 10px;
+    }
+
+    .Advertising {
+        display: none;
+    }
+
+    .formstext {
+        min-height: 550px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+
+    .displaySignup {
+        display: none;
+    }
+}
+
+@media screen and (max-width: 1024px) {
+    .conteiner {
+        max-width: 1024px;
+        width: 100%;
+        height: auto;
+    }
+    div#lineresizetextarea {
+        display: none;
+    }
+    .header {
+        width: 1024px;
+        height: 100px;
+    }
+
+    .modal-content {
+        width: 535px;
+        height: 594px;
+    }
+
+    #Check {
+        background: #C1CFDA;
+        width: 490px;
+        height: 40px;
+    }
+
+    .form-check.form-switch {
+        background: #D9D9D905;
+        width: 490px;
+        height: 35px;
+    }
+
+    .div_num {
+        width: 200px;
+        height: auto;
+    }
+
+    .number {
+        background: #C1CFDA;
+        border: 1px solid transparent;
+        width: 190px;
+        height: 35px;
+    }
+
+    .btn-seve {
+        border: 2px solid #87FF65;
+        width: 200px;
+        height: 45px;
+    }
+
+    button.btn.btn-secondary {
+        border: 2px solid #87FF65;
+        width: 490px;
+        height: 40px;
+    }
+
+    span.loader_white {
+        left: 469px;
+    }
+
+    .loginpng {
+        width: 400px;
+        height: 400px;
+    }
+
+    input.passwordPassdelinp {
+        width: 900px;
+    }
+
+    .btndellpassdiv {
+        width: 900px;
+    }
+
+    .positionab {
+        bottom: 720px;
+        right: 275px;
+        width: 25px;
+    }
+
+    button.btn-Dell {
+        width: 135px;
+    }
+
+    button.btn-Save {
+        width: 135px;
+    }
+
+    .passwordPassdivDell {
+        height: 1165px;
+    }
+
+    .passwordPassdivblurDell {
+        width: 100%;
+        height: 1165px;
+    }
+
+    .backgraundcolorsel {
+        width: 900px;
+    }
+
+    .passwordlinkdiv {
+        height: 1165px;
+    }
+
+    input.passwordPassinp {
+        width: 600px;
+    }
+
+    button.passwordPassbtn {
+        width: 155px;
+        height: 50px;
+    }
+
+    h1.passwordPassdivh1 {
+        font-size: 18px;
+    }
+
+    .passwordPassdiv {
+        height: 1166px;
+    }
+
+    #pleas-logged-div {
+        width: 700px;
+    }
+
+    .formstext {
+        min-height: 1023px;
+    }
+    .quantity-arrow-plussimvoles{
+        left: 486px;
+        top: 260px;
+    }
+    .quantity-arrow-minussimvoles{
+        left: 486px;
+        top: 280px;
+    }
+    .quantity-arrow-minusdzaynavorner{
+        left: 185px;
+        top: 355px;
+    }
+    .quantity-arrow-plusdzaynavorner{
+        left: 185px;
+        top: 333px; 
+    }
+    .quantity-arrow-plusmaximumlenght{
+        left: 185px;
+        top: 260px;
+    }
+    .quantity-arrow-minusmaximumlenght{
+        left: 185px;
+        top: 280px;
+
+    }
+    .quantity-arrow-plusminimumlenght{
+        left: 485px;
+        top: 190px;
+    }
+    .quantity-arrow-minusminimumlenght{
+        left: 485px;
+        top: 208px;
+    }
+
+    .quantity-arrow-minusnumberlenght{
+        left: 185px;
+        top: 208px;
+    }
+    .quantity-arrow-plusnumberlenght {
+        left: 185px;
+        top: 190px;
+    }
+   
+    .quantity-arrow-minusbovandak{
+        left: 486px;
+        top: 355px;
+    }
+    .quantity-arrow-plusbovandak{
+        left: 486px;
+        top: 333px;
+    }
+}
+
+@media screen and (max-width: 1000px) {
+    .conteiner {
+        max-width: 1000px;
+        width: 100%;
+        height: auto;
+    }
+    div#lineresizetextarea {
+        display: none;
+    }
+    .header {
+        width: 1000px;
+        height: 100px;
+    }
+
+    .uri {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+
+    .silv {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        height: auto;
+    }
+
+    .placetext {
+        width: 800px;
+    }
+
+    .boxsilver {
+        display: none;
+    }
+
+    .btn-outline {
+        margin-right: 40px;
+    }
+
+    .btn-lin-hover {
+        width: 300px;
+        height: 50px;
+    }
+
+    .url {
+        width: 100px;
+    }
+
+    .sevenday {
+        width: 400px;
+    }
+
+    .sevendrop {
+        width: 380px;
+    }
+
+    .cheer {
+        right: 120px;
+    }
+
+    .send {
+        width: 800px;
+        height: 50px;
+    }
+
+    .formdiv {
+        width: 800px;
+    }
+
+    .dropdawn {
+        width: 800px;
+    }
+
+    .check {
+        width: 30px;
+        height: 30px;
+    }
+
+    .stile_grap>h3 {
+        font-size: 15px;
+        line-height: 10px;
+    }
+
+    .stile_grap>p {
+        font-size: 10px;
+        line-height: 22px;
+    }
+
+    .inpintv {
+        width: 800px;
+    }
+
+
+    .save_for {
+        font-size: 10px;
+    }
+
+    .save {
+        font-size: 10px;
+    }
+
+    .Advertising {
+        display: none;
+    }
+
+    span.loader_white {
+        left: 413px;
+    }
+
+    .loginpngdiv {
+        display: none;
+    }
+}
+
+@media screen and (max-width: 912px) {
+    input.passwordPassdelinp {
+        width: 800px;
+    }
+    div#lineresizetextarea {
+        display: none;
+    }
+    .btndellpassdiv {
+        width: 800px;
+    }
+
+    .positionab {
+        bottom: 630px;
+        right: 215px;
+        width: 22px;
+    }
+
+    button.btn-Dell {
+        width: 135px;
+    }
+
+    button.btn-Save {
+        width: 135px;
+    }
+
+    .passwordPassdivDell {
+        height: 1165px;
+    }
+
+    .backgraundcolorsel {
+        width: 800px;
+    }
+
+    .passwordlinkdiv {
+        height: 1165px;
+    }
+
+    input.passwordPassinp {
+        width: 515px;
+    }
+}
+
+@media screen and (max-width: 900px) {
+    .conteiner {
+        max-width: 900px;
+        width: 100%;
+        height: auto;
+    }
+
+    .send {
+        width: 700px;
+        height: 50px;
+    }
+
+    .uri {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+
+    .header {
+        width: 900px;
+        height: 100px;
+    }
+    div#lineresizetextarea {
+        display: none;
+    }
+    .placetext {
+        width: 700px;
+        border-radius: 0px 12px 12px 12px;
+    }
+
+    .fileblock {
+        border-radius: 12px 12px 12px 12px;
+    }
+
+    .boxsilver {
+        width: 680px;
+        height: 400px;
+        margin-top: 35px;
+    }
+
+    .btn-outline {
+        margin-right: 130px;
+    }
+
+    .btn-lin-hover {
+        width: 500px;
+        height: 50px;
+    }
+
+    .url {
+        width: 100px;
+    }
+
+    .sevenday {
+        width: 330px;
+    }
+
+    .sevendrop {
+        width: 340px;
+    }
+
+    .cheer {
+        right: 115px;
+    }
+
+    .formdiv {
+        width: 680px;
+    }
+
+    .dropdawn {
+        width: 680px;
+    }
+
+    .check {
+        width: 30px;
+        height: 30px;
+    }
+
+    .stile_grap>h3 {
+        font-size: 15px;
+        line-height: 10px;
+    }
+
+    .stile_grap>p {
+        font-size: 10px;
+        line-height: 22px;
+    }
+
+    .inpintv {
+        width: 680px;
+    }
+
+    .save_for {
+        font-size: 10px;
+    }
+
+    .save {
+        font-size: 10px;
+    }
+
+    .Advertising {
+        width: 392px;
+        height: 497px;
+        display: none;
+    }
+
+    .section {
+        display: flex;
+        align-items: self-start;
+        justify-content: center;
+        flex-direction: column;
+    }
+
+    .textinurl {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        flex-direction: column;
+    }
+
+    body {
+        font-size: 15px;
+    }
+
+    .block_two {
+        margin-right: 30px;
+        width: 390px;
+        justify-content: space-evenly;
+    }
+
+    .chevron {
+        right: 70px;
+    }
+
+    .Frame {
+        right: 195px;
+    }
+
+    .block_one {
+        margin-left: 50px;
+    }
+
+    .logoName {
+        font-size: 20px;
+    }
+
+    .logoSubName {
+        font-size: 10px;
+    }
+
+    .fileblock {
+        width: 700px;
+    }
+
+    #filenon {
+        display: none;
+        align-items: center;
+        justify-content: center;
+        flex-direction: column;
+    }
+
+    .messadje {
+        width: 700px;
+        border-radius: 12px 12px 12px 12px;
+    }
+
+    #link_uploads {
+        width: 628px;
+    }
+
+    .fileblockUrl {
+        width: 700px;
+        border-radius: 12px 12px 12px 12px;
+    }
+
+    .Home_page {
+        font-size: 18px;
+    }
+
+    .Resources {
+        font-size: 18px;
+        width: 120px;
+    }
+
+    .program {
+        font-size: 18px;
+        width: 160px;
+    }
+
+    .flex {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+    }
+
+    div#radio {
+        width: 685px;
+        display: flex;
+        align-items: flex-start;
+        justify-content: center;
+        text-align: center;
+    }
+
+    .dropbtn {
+        font-size: 17px;
+    }
+
+    span.loader_white {
+        left: 340px;
+    }
+}
+
+@media screen and (max-width: 853px) {
+    span.loader_white {
+        left: 383px;
+    }
+    div#lineresizetextarea {
+        display: none !important;
+    }
+    .loginpngdiv {
+        display: none;
+    }
+
+    .passwordlinkdiv {
+        height: 1080px;
+    }
+    button.btn-close {
+        position: absolute;
+        top: 0;
+        left: 0;
+    }
+    button.passwordPassbtn {
+        margin-left: 5px;
+        width: 150px;
+        height: 50px;
+    }
+
+    input.passwordPassinp {
+        width: 300px;
+        height: 50px;
+    }
+
+    h1.passwordPassdivh1 {
+        font-size: 14px;
+    }
+
+    .passwordPassdiv {
+        height: 1080px;
+    }
+    .flex {
+        display: flex;
+        flex-direction: column;
+        align-items: self-start;
+        justify-content: center;
+    }
+}
+
+@media screen and (max-width: 820px) {
+    span.loader_white {
+        left: 367px;
+    }
+
+    input.passwordPassdelinp {
+        width: 650px;
+    }
+
+    .btndellpassdiv {
+        width: 650px;
+    }
+
+    .positionab {
+        bottom: 560px;
+        right: 170px;
+        width: 22px;
+    }
+
+    button.btn-Dell {
+        width: 135px;
+    }
+
+    button.btn-Save {
+        width: 135px;
+    }
+
+    .passwordPassdivDell {
+        height: 980px;
+    }
+
+    .passwordPassdivblurDell {
+        width: 100%;
+        height: 980px;
+    }
+
+    .btndellpassblurdiv {
+        width: 700px;
+    }
+
+    input.passwordPassdelblurinp {
+        width: 700px;
+        align-self: center;
+    }
+
+    button.btn_dell-copyblur {
+        width: 215px;
+        height: 65px;
+    }
+
+    button.btn-dellblur {
+        width: 215px;
+        height: 65px;
+    }
+
+    select.passwordlinkselect {
+        width: 90px;
+        font-size: 10px;
+    }
+
+    button.passwordlinkbtnone {
+        width: 70px;
+    }
+
+    .passwordlinkinp {
+        width: 620px;
+        font-size: 13px;
+    }
+
+    .backgraundcolorsel {
+        width: 620px;
+    }
+
+    button.btn_link_pass {
+        width: 140px;
+        font-size: 10px;
+    }
+
+    .passwordlinkh1 {
+        font-size: 21px;
+    }
+
+    h5.passwordlinkh5two {
+        font-size: 10px;
+    }
+
+    h1.passwordlinkh1two {
+        font-size: 11px;
+    }
+
+    .passwordlinkdiv {
+        width: 100%;
+        height: 980px;
+    }
+
+    .btnpasslink {
+        justify-content: space-between;
+    }
+
+    input.passwordPassinp {
+        width: 460px;
+    }
+
+    button.passwordPassbtn {
+        width: 130px;
+        height: 50px;
+    }
+
+    h1.passwordPassdivh1 {
+        font-size: 15px;
+    }
+
+    .passwordPassdiv {
+        height: 980px;
+    }
+
+    #pleas-logged-div {
+        width: 700px;
+    }
+
+    .formstext {
+        min-height: 840px;
+    }
+
+    form#uriform {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        width: 600px;
+    }
+
+    .formdiv {
+        width: 100%;
+    }
+    .dropdawn {
+        width: 100%;
+    }
+
+    .sevendropselect {
+        background: #273138;
+        width: 265px;
+    }
+    .inpintv {
+        width: 100%;
+    }
+    .flex {
+        display: flex;
+        flex-direction: column;
+        align-items: self-start;
+        justify-content: center;
+    }
+    .send {
+        width: 100%;
+        height: 50px;
+    }
+    .placetext {
+        width: 700px;
+        border-radius: 0px 12px 12px 12px;
+    }
+}
+
+@media screen and (max-width: 770px) {
+    span.loader_white {
+        left: 343px;
+    }
+    div#lineresizetextarea {
+        display: none;
+    }
+    input.passwordPassdelinp {
+        width: 650px;
+    }
+
+    .btndellpassdiv {
+        width: 650px;
+    }
+
+    .positionab {
+        bottom: 484px;
+        right: 145px;
+        width: 22px;
+    }
+
+    button.btn-Dell {
+        width: 135px;
+    }
+
+    button.btn-Save {
+        width: 135px;
+    }
+
+    .passwordPassdivDell {
+        height: 822px;
+    }
+
+    .btndellpassblurdiv {
+        width: 600px;
+    }
+
+    input.passwordPassdelblurinp {
+        width: 600px;
+        align-self: center;
+    }
+
+    button.btn_dell-copyblur {
+        width: 160px;
+    }
+
+    button.btn-dellblur {
+        width: 160px;
+    }
+
+    .passwordPassdivblurDell {
+        width: 100%;
+        height: 820px;
+    }
+
+    select.passwordlinkselect {
+        width: 90px;
+        font-size: 10px;
+    }
+
+    button.passwordlinkbtnone {
+        width: 70px;
+    }
+
+    .passwordlinkinp {
+        width: 400px;
+        font-size: 13px;
+    }
+
+    button.btn_link_pass {
+        width: 140px;
+        font-size: 10px;
+    }
+
+    .passwordlinkh1 {
+        font-size: 21px;
+    }
+
+    h5.passwordlinkh5two {
+        font-size: 10px;
+    }
+
+    h1.passwordlinkh1two {
+        font-size: 11px;
+    }
+
+    .passwordlinkdiv {
+        width: 100%;
+        height: 820px;
+    }
+
+    .btnpasslink {
+        justify-content: space-between;
+    }
+
+    .backgraundcolorsel {
+        width: 555px;
+    }
+
+    input.passwordPassinp {
+        width: 405px;
+    }
+
+    button.passwordPassbtn {
+        width: 130px;
+        height: 50px;
+    }
+
+    h1.passwordPassdivh1 {
+        font-size: 13px;
+    }
+
+    .passwordPassdiv {
+        height: 820px;
+    }
+
+    #pleas-logged-div {
+        width: 700px;
+    }
+
+    .formstext {
+        min-height: 680px;
+    }
+
+    .placetext {
+        width: 700px;
+        border-radius: 0px 12px 12px 12px;
+    }
+
+    form#uriform {
+        width: 595px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+
+    .dropdawn {
+        width: 100%;
+    }
+
+    .inpintv {
+        width: 100%;
+    }
+
+    .flex {
+        display: flex;
+        flex-direction: column;
+        align-items: self-start;
+        justify-content: center;
+    }
+
+    .send {
+        width: 100%;
+        height: 50px;
+    }
+}
+
+@media screen and (max-width: 700px) {
+    .conteiner {
+        max-width: 700px;
+        width: 100%;
+        height: auto;
+    }
+    div#lineresizetextarea {
+        display: none;
+    }
+    .header {
+        width: 700px;
+        height: 100px;
+    }
+
+    .placetext {
+        width: 580px;
+    }
+
+    .boxsilver {
+        width: 392px;
+        height: 497px;
+    }
+
+    .btn-outline {
+        margin-right: 40px;
+    }
+
+    .btn-lin-hover {
+        width: 200px;
+        height: 40px;
+    }
+
+    .url {
+        width: 100px;
+    }
+
+    .sevenday {
+        width: 300px;
+    }
+
+    .sevendrop {
+        width: 270px;
+    }
+
+    .cheer {
+        right: 80px;
+    }
+
+    .send {
+        width: 600px;
+    }
+
+    .formdiv {
+        width: 580px;
+    }
+
+    .dropdawn {
+        width: 580px;
+    }
+
+    .check {
+        width: 30px;
+        height: 30px;
+    }
+
+    .stile_grap>h3 {
+        font-size: 15px;
+        line-height: 10px;
+    }
+
+    .stile_grap>p {
+        font-size: 10px;
+        line-height: 20px;
+    }
+
+    .chevron {
+        right: 55px;
+    }
+
+    .Frame {
+        right: 185px;
+    }
+
+    .inpintv {
+        width: 580px;
+    }
+
+    .save_for {
+        font-size: 10px;
+    }
+
+    .save {
+        font-size: 10px;
+    }
+
+    .Advertising {
+        width: 392px;
+        height: 497px;
+    }
+
+    .modal-content {
+        width: 525px;
+        height: 820px;
+    }
+
+    .modal-title {
+        font-family: Helvetica Neue;
+        font-size: 20px;
+    }
+
+    #Check {
+        width: 495px;
+    }
+
+    .form-check.form-switch {
+        width: 490px;
+        height: 75px;
+    }
+
+    .div_num {
+        width: 240px;
+        text-align: left;
+    }
+
+    .lable-number {
+        font-size: 15px;
+    }
+
+    .number {
+        width: 235px;
+        height: 55px;
+    }
+
+    .btn-seve {
+        width: 225px;
+        height: 45px;
+    }
+
+    button.btn.btn-secondary {
+        width: 490px;
+        height: 45px;
+    }
+
+    button.dropbtn {
+        font-size: 11px;
+    }
+
+    #pleas-logged-div {
+        width: 300px;
+        height: 280px;
+    }
+
+    .pleas-logged-h1-div>h3 {
+        font-size: 12px;
+    }
+
+    .pleas-logged-h1-div>h1 {
+        font-size: 14px;
+    }
+
+    .logged-btn {
+        width: 130px;
+        height: 35px;
+    }
+
+    .sign-btn {
+        width: 130px;
+        height: 35px;
+    }
+
+    body {
+        padding-right: unset !important;
+    }
+}
+
+@media screen and (max-width: 600px) {
+    .conteiner {
+        max-width: 600px;
+        width: 100%;
+        height: auto;
+    }
+    div#lineresizetextarea {
+        display: none;
+    }
+    .header {
+        width: 600px;
+        height: 100px;
+    }
+
+    .placetext {
+        width: 430px;
+        height: 243px;
+    }
+
+    .boxsilver {
+        width: 392px;
+        height: 497px;
+    }
+
+    .btn-outline {
+        margin-right: 40px;
+    }
+
+    .btn-lin-hover {
+        width: 200px;
+        height: 40px;
+    }
+
+    .url {
+        width: 100px;
+    }
+
+    .sevenday {
+        width: 180px;
+    }
+
+    .sevendrop {
+        width: 200px;
+    }
+
+    .cheer {
+        right: 70px;
+    }
+
+    .formdiv {
+        width: 392px;
+    }
+
+    .dropdawn {
+        width: 392px;
+    }
+
+    .check {
+        width: 30px;
+        height: 30px;
+    }
+
+    .stile_grap>h3 {
+        font-size: 15px;
+        line-height: 10px;
+    }
+
+    .stile_grap>p {
+        font-size: 10px;
+        line-height: 20px;
+
+    }
+
+    .inpintv {
+        width: 392px;
+    }
+
+    .save_for {
+        font-size: 10px;
+    }
+
+    .save {
+        font-size: 10px;
+    }
+
+    .Advertising {
+        width: 392px;
+        height: 497px;
+    }
+
+    .send {
+        width: 392px;
+    }
+
+    .logoName {
+        display: none;
+    }
+
+    .logoSubName {
+        display: none;
+    }
+
+    .logo_div_footer {
+        display: none;
+    }
+
+    footer {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+
+    .Frame {
+        display: none;
+    }
+
+    .languige {
+        display: none;
+    }
+
+    .chevron {
+        display: none;
+    }
+
+    .fileblock {
+        width: 400px;
+        border-radius: 12px 12px 12px 12px;
+    }
+
+    .messadje {
+        width: 400px;
+    }
+
+    .fileblockUrl {
+        width: 400px;
+    }
+
+    #link_uploads {
+        width: 300px;
+    }
+
+    .blue {
+        width: 170px;
+        font-size: 15px;
+    }
+
+    div#radio {
+        width: 400px;
+        display: flex;
+        align-items: flex-start;
+        justify-content: center;
+        text-align: center;
+    }
+
+    span.loader_white {
+        left: 227px;
+    }
+
+}
+
+@media screen and (max-width: 540px) {
+    input.passwordPassdelinp {
+        font-size: 12px;
+        width: 400px;
+    }
+    div#lineresizetextarea {
+        display: none;
+    }
+    .btndellpassdiv {
+        width: 400px;
+    }
+
+    .positionab {
+        bottom: 318px;
+        right: 110px;
+        width: 20px;
+    }
+
+    button.btn-Dell {
+        width: 135px;
+    }
+
+    button.btn-Save {
+        width: 135px;
+    }
+
+    .passwordPassdivDell {
+        height: 520px;
+    }
+
+    .btndellpassblurdiv {
+        width: 500px;
+    }
+
+    input.passwordPassdelblurinp {
+        width: 500px;
+        align-self: center;
+    }
+
+    button.btn_dell-copyblur {
+        width: 140px;
+    }
+
+    button.btn-dellblur {
+        width: 140px;
+    }
+
+    .passwordPassdivblurDell {
+        width: 100%;
+        height: 520px;
+    }
+
+    select.passwordlinkselect {
+        width: 90px;
+        font-size: 10px;
+    }
+
+    button.passwordlinkbtnone {
+        width: 100px;
+    }
+
+    .passwordlinkinp {
+        width: 620px;
+        font-size: 13px;
+    }
+
+    .backgraundcolorsel {
+        width: 465px;
+    }
+
+    button.btn_link_pass {
+        width: 140px;
+        font-size: 10px;
+    }
+
+    .passwordlinkh1 {
+        font-size: 21px;
+    }
+
+    h5.passwordlinkh5two {
+        font-size: 10px;
+    }
+
+    h1.passwordlinkh1two {
+        font-size: 11px;
+    }
+
+    .passwordlinkdiv {
+        width: 100%;
+        height: 520px;
+    }
+
+    .btnpasslink {
+        justify-content: space-between;
+    }
+
+    input.passwordPassinp {
+        width: 210px;
+    }
+
+    button.passwordPassbtn {
+        width: 100px;
+        height: 50px;
+    }
+
+    .passwordPassdiv {
+        height: 520px;
+    }
+
+    h1.passwordPassdivh1 {
+        font-size: 10px;
+    }
+    form#uriform {
+        width: 420px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+    .section {
+        margin-left: 60px;
+        margin-right: 60px;
+    }
+    #pleas-logged-div {
+        width: 430px;
+        height: 243px;
+    }
+    .quantity-arrow-plussimvoles{
+        top: 415px;
+    }
+    .quantity-arrow-minussimvoles{
+        top: 445px;
+    }
+    .quantity-arrow-minusdzaynavorner{
+        left: 215px;
+        top: 535px;
+    }
+    .quantity-arrow-plusdzaynavorner{
+        left: 215px;
+        top: 505px;
+    }
+    .quantity-arrow-plusmaximumlenght{
+        left: 215px;
+        top: 415px;
+    }
+    .quantity-arrow-minusmaximumlenght{
+        left: 215px;
+        top: 445px;
+
+    }
+    .quantity-arrow-plusminimumlenght{
+        top: 320px;
+    }
+    .quantity-arrow-minusminimumlenght{
+        top: 355px;
+    }
+
+    .quantity-arrow-minusnumberlenght{
+        left: 215px;
+        top: 350px;
+    }
+    .quantity-arrow-plusnumberlenght {
+        left: 215px;
+        top: 325px;
+    }
+   
+    .quantity-arrow-minusbovandak{
+        top: 535px;
+    }
+    .quantity-arrow-plusbovandak{
+        top: 505px;
+    }
+}
+
+@media screen and (max-width: 500px) {
+    .conteiner {
+        max-width: 500px;
+        width: 100%;
+        height: auto;
+    }
+    div#lineresizetextarea {
+        display: none;
+    }
+    .header {
+        width: 500px;
+        height: 100px;
+    }
+
+    .placetext {
+        width: 430px;
+        height: 243px;
+        border-radius: 0px 12px 12px 12px;
+    }
+
+    .boxsilver {
+        width: 392px;
+        height: 497px;
+    }
+
+    .btn-outline {
+        margin-right: 40px;
+    }
+
+    .btn-lin-hover {
+        width: 200px;
+        height: 40px;
+    }
+
+    .url {
+        width: 100px;
+    }
+
+    .sevenday {
+        width: 180px;
+    }
+
+    .sevendrop {
+        width: 200px;
+    }
+
+    .cheer {
+        right: 70px;
+    }
+
+    .formdiv {
+        width: 392px;
+    }
+
+    .dropdawn {
+        width: 392px;
+    }
+
+    .check {
+        width: 30px;
+        height: 30px;
+    }
+
+    .stile_grap>h3 {
+        font-size: 15px;
+        line-height: 10px;
+    }
+
+    .stile_grap>p {
+        font-size: 10px;
+        line-height: 20px;
+
+    }
+
+    .inpintv {
+        width: 392px;
+    }
+
+    .save_for {
+        font-size: 10px;
+    }
+
+    .save {
+        font-size: 10px;
+        margin-bottom: unset;
+    }
+
+    .Advertising {
+        width: 392px;
+        height: 497px;
+    }
+
+    .send {
+        width: 392px;
+        margin-top: 50px;
+    }
+
+    .logoName {
+        display: none;
+    }
+
+    .logoSubName {
+        display: none;
+    }
+
+    .logo_div_footer {
+        display: none;
+    }
+
+    footer {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+
+    .Frame {
+        display: none;
+    }
+
+    .languige {
+        display: none;
+    }
+
+    .chevron {
+        display: none;
+    }
+
+    .fileblock {
+        width: 400px;
+    }
+
+    .messadje {
+        width: 400px;
+    }
+
+    .fileblockUrl {
+        width: 400px;
+    }
+
+    #link_uploads {
+        width: 300px;
+    }
+
+    .blue {
+        width: 170px;
+        font-size: 15px;
+    }
+
+    .modal-content {
+        width: 480px;
+        height: 720px;
+    }
+
+    .modal-title {
+        font-family: Helvetica Neue;
+        font-size: 20px;
+    }
+
+    #Check {
+        width: 440px;
+    }
+
+    .form-check.form-switch {
+        width: 440px;
+        height: 50px;
+    }
+
+    .div_num {
+        width: 215px;
+        text-align: left;
+    }
+
+    .lable-number {
+        font-size: 15px;
+    }
+
+    .number {
+        width: 210px;
+        height: 40px;
+    }
+
+    .btn-seve {
+        width: 210px;
+        height: 45px;
+    }
+
+    button.btn.btn-secondary {
+        width: 440px;
+        height: 40px;
+        margin-bottom: 15px;
+    }
+
+    button.dropbtn {
+        font-size: 11px;
+    }
+
+    #pleas-logged-div {
+        width: 300px;
+        height: 280px;
+    }
+
+    .pleas-logged-h1-div>h3 {
+        font-size: 12px;
+    }
+
+    .pleas-logged-h1-div>h1 {
+        font-size: 14px;
+    }
+
+    .logged-btn {
+        width: 130px;
+        height: 35px;
+    }
+
+    .sign-btn {
+        width: 130px;
+        height: 35px;
+    }
+
+}
+
+@media screen and (max-width: 430px) {
+    .conteiner {
+        max-width: 430px;
+        width: 100%;
+        height: auto;
+    }
+
+    .header {
+        width: 430px;
+        height: 100px;
+    }
+
+    .placetext {
+        width: 250px;
+        height: 243px;
+        border-radius: 0px 12px 12px 12px;
+    }
+
+    .boxsilver {
+        width: 392px;
+        height: 497px;
+    }
+
+    .btn-outline {
+        margin-right: 40px;
+    }
+
+    .btn-lin-hover {
+        width: 200px;
+        height: 40px;
+    }
+
+    .url {
+        width: 80px;
+    }
+
+    .sevenday {
+        width: 130px;
+    }
+
+    .sevendrop {
+        width: 115px;
+    }
+
+    .cheer {
+        right: 70px;
+    }
+
+    .formdiv {
+        width: 250px;
+    }
+
+    .dropdawn {
+        width: 250px;
+    }
+
+    .check {
+        width: 30px;
+        height: 30px;
+    }
+
+    .stile_grap>h3 {
+        font-size: 15px;
+        line-height: 10px;
+    }
+
+    .stile_grap>p {
+        font-size: 10px;
+        line-height: 20px;
+
+    }
+
+    .indexz {
+        position: absolute;
+        bottom: 145px;
+        z-index: 2;
+        right: 70px;
+    }
+
+    form.forgotpassmob {
+        width: 300px;
+    }
+
+    .inppass {
+        width: 100% !important;
+    }
+
+    button.btnpass {
+        width: 100% !important;
+    }
+
+    .znanie {
+        font-size: 8px !important;
+    }
+
+    .inpintv {
+        width: 250px;
+    }
+
+    .save_for {
+        font-size: 17px;
+    }
+
+    .save {
+        font-size: 10px;
+    }
+
+    .Advertising {
+        width: 250px;
+        height: 497px;
+    }
+
+    .send {
+        width: 250px;
+    }
+
+    .logoName {
+        display: none;
+    }
+
+    .logoSubName {
+        display: none;
+    }
+
+    .logo_div_footer {
+        display: none;
+    }
+
+    footer {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+
+    .Frame {
+        display: none;
+    }
+
+    .languige {
+        display: none;
+    }
+
+    .chevron {
+        display: none;
+    }
+
+    .fileblock {
+        width: 250px;
+    }
+
+    .messadje {
+        width: 250px;
+    }
+
+    .fileblockUrl {
+        width: 250px;
+    }
+
+    #link_uploads {
+        width: 210px;
+    }
+
+    .blue {
+        width: 110px;
+        font-size: 10px;
+        align-items: center;
+    }
+
+    .zaglav {
+        color: #E6E7F1;
+        font-family: Helvetica Neue;
+        font-size: 10px;
+        font-weight: 500;
+        line-height: 22px;
+        text-align: left;
+        width: 250px;
+        height: 22px;
+        margin-bottom: 15px;
+    }
+
+    .necessary {
+        color: #C2C2C9;
+        font-family: Helvetica Neue;
+        font-size: 8px;
+        align-self: end;
+    }
+
+    .block_two {
+        width: 340px;
+    }
+
+    .Home_page {
+        font-size: 10px;
+    }
+
+    .Resources {
+        font-size: 10px;
+        width: 80px;
+    }
+
+    .program {
+        font-size: 10px;
+        width: 93px;
+    }
+
+    .stile_grap>h3 {
+        font-size: 9px;
+        line-height: 10px;
+    }
+
+    .stile_grap>p {
+        font-size: 7px;
+        line-height: 20px;
+    }
+
+    .save {
+        font-size: 9px;
+    }
+
+    .fileblockt {
+        width: 180px;
+    }
+
+    .obesnen {
+        width: 303px;
+        height: 22px;
+        color: #D9D9D9;
+        font-family: Helvetica Neue;
+        font-size: 5px;
+        font-weight: 500;
+        line-height: 22px;
+        text-align: center;
+    }
+
+    div#radio {
+        width: 270px;
+        display: flex;
+        align-items: flex-start;
+        justify-content: center;
+        text-align: center;
+    }
+
+    .silv {
+        display: flex;
+        align-items: self-start;
+        justify-content: center;
+        height: auto;
+        width: 270px;
+        margin: unset;
+    }
+
+    .modal-content {
+        width: 400px;
+        height: 730px;
+        border-radius: 12px;
+        background: #273138;
+    }
+
+    #Check {
+        width: 370px;
+    }
+
+    .form-check.form-switch {
+        width: 370px;
+        height: 50px;
+    }
+
+    .number {
+        width: 155px;
+        height: 35px;
+    }
+
+    .div_num {
+        width: 175px;
+    }
+
+    .btn-seve {
+        width: 170px;
+        height: 45px;
+    }
+
+    button.btn.btn-secondary {
+        width: 365px;
+        height: 45px;
+    }
+
+    .btn-outlin {
+        width: 220px;
+        margin-right: unset;
+    }
+
+    .uri {
+        margin-bottom: 135px;
+    }
+
+    body.modal-open {
+        padding-right: unset !important;
+    }
+
+    #pleas-logged-div {
+        width: 393px;
+        height: 420px;
+
+    }
+
+    .sign-btn {
+        width: 135px;
+    }
+
+    .logged-btn {
+        width: 135px;
+    }
+
+    .pleas-logged-h1-div>h3 {
+        font-size: 15px;
+    }
+
+    .pleas-logged-h1-div>h1 {
+        font-size: 17px;
+    }
+
+    .Home_pageline {
+        width: 59px;
+    }
+
+    button.dropbtn {
+        font-size: 15px;
+    }
+
+    .section {
+        margin-left: 0;
+        margin-right: 0;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+
+    .line-dropdawn {
+        width: 120px;
+        height: 0.5px;
+        border: 0.5px solid transparent;
+    }
+
+    .dropdown-content a {
+        padding: 4px 9px;
+        font-size: 10px;
+    }
+
+    .line-dropdawn {
+        width: 120px;
+    }
+
+    .dropdown-content {
+        min-width: 145px;
+        overflow: auto;
+        width: 135px;
+        height: auto;
+    }
+
+    div#myDropdowne {
+        width: 0px !important;
+        height: auto !important;
+    }
+
+    .radiobtn {
+        width: 40px;
+        height: 40px;
+        margin-top: 0;
+    }
+
+    .fontsize {
+        font-size: 8px;
+        align-self: flex-end;
+    }
+
+    span.loader_white {
+        left: 172px;
+    }
+
+    .displaymodel {
+        width: 370px;
+    }
+
+    .butonModel {
+        width: 365px;
+    }
+
+    input.passwordPassdelinp {
+        width: 360px;
+        font-size: 12px;
+    }
+
+    .btndellpassdiv {
+        width: 300px;
+    }
+
+    .positionab {
+        bottom: 427px;
+        right: 57px;
+        width: 15px;
+    }
+
+    button.btn-Dell {
+        width: 135px;
+    }
+
+    button.btn-Save {
+        width: 135px;
+    }
+
+    .passwordPassdivDell {
+        height: 730px;
+    }
+
+    .btndellpassblurdiv {
+        width: 350px;
+    }
+
+    input.passwordPassdelblurinp {
+        width: 350px;
+        align-self: center;
+    }
+
+    button.btn_dell-copyblur {
+        width: 160px;
+    }
+
+    button.btn-dellblur {
+        width: 160px;
+    }
+
+    .passwordPassdivblurDell {
+        width: 100%;
+        height: 735px;
+    }
+
+    select.passwordlinkselect {
+        width: 60px;
+        font-size: 10px;
+    }
+
+    button.passwordlinkbtnone {
+        width: 60px;
+    }
+
+    .passwordlinkinp {
+        width: 260px;
+        font-size: 11px;
+    }
+
+    button.btn_link_pass {
+        width: 140px;
+        font-size: 10px;
+    }
+
+    .passwordlinkh1 {
+        font-size: 21px;
+    }
+
+    h5.passwordlinkh5two {
+        font-size: 10px;
+    }
+
+    h1.passwordlinkh1two {
+        font-size: 11px;
+    }
+
+    .passwordlinkdiv {
+        width: 100%;
+        height: 730px;
+    }
+
+    .backgraundcolorsel {
+        width: 378px;
+    }
+
+    .btnpasslink {
+        width: 378px;
+    }
+
+    input.passwordPassinp {
+        width: 230px;
+    }
+
+    button.passwordPassbtn {
+        width: 100px;
+        height: 50px;
+    }
+
+    h1.passwordPassdivh1 {
+        font-size: 11px;
+    }
+
+    .passwordPassdiv {
+        height: 729px;
+    }
+
+    .formstext {
+        min-height: 590px;
+    }
+    .notnecessary {
+        width: 135px;
+    }
+    div#lineresizetextarea {
+        display: none;
+    }
+    .quantity-arrow-plussimvoles{
+        top: 335px;
+        left: 345px;
+    }
+    .quantity-arrow-minussimvoles{
+        top: 355px;
+        left: 345px;
+    }
+    .quantity-arrow-minusdzaynavorner{
+        
+        left: 150px;
+        top: 430px;
+    }
+    .quantity-arrow-plusdzaynavorner{
+        left: 150px;
+        top: 410px;
+    }
+    .quantity-arrow-plusmaximumlenght{
+        left: 150px;
+        top: 335px;    
+    }
+    .quantity-arrow-minusmaximumlenght{
+        left: 150px;
+        top: 355px;
+
+    }
+    .quantity-arrow-plusminimumlenght{
+        top: 265px;
+        left: 345px;
+    }
+    .quantity-arrow-minusminimumlenght{
+        top: 285px;
+        left: 345px;
+    }
+
+    .quantity-arrow-minusnumberlenght{
+        left: 150px;
+        top: 285px;
+    }
+    .quantity-arrow-plusnumberlenght {
+        left: 150px;
+        top: 265px;
+    }
+   
+    .quantity-arrow-minusbovandak{
+        top: 430px;
+        left: 345px;
+    }
+    .quantity-arrow-plusbovandak{
+        top: 410px;
+        left: 345px;
+    }
+}
+
+@media screen and (max-width: 414px) {
+    .conteiner {
+        max-width: 414px;
+        width: 100%;
+        height: auto;
+    }
+
+    .header {
+        width: 414px;
+        height: 100px;
+    }
+
+    .placetext {
+        width: 350px;
+        height: 243px;
+        border-radius: 0px 12px 12px 12px;
+    }
+
+    .obesnen {
+        width: 210px;
+        height: 22px;
+        color: #D9D9D9;
+        font-family: Helvetica Neue;
+        font-size: 5px;
+        font-weight: 500;
+        line-height: 22px;
+        text-align: center;
+    }
+
+    .boxsilver {
+        width: 392px;
+        height: 497px;
+    }
+
+    .btn-outline {
+        margin-right: 40px;
+    }
+
+    .btn-lin-hover {
+        width: 200px;
+        height: 40px;
+    }
+
+    .url {
+        width: 80px;
+    }
+
+    .sevenday {
+        width: 130px;
+    }
+
+    .sevendrop {
+        width: 115px;
+    }
+
+    .cheer {
+        right: 70px;
+    }
+
+    .formdiv {
+        width: 100%;
+    }
+
+    .dropdawn {
+        width: 100%;
+    }
+
+    form#uriform {
+        width: 350px;
+    }
+
+    .check {
+        width: 30px;
+        height: 30px;
+    }
+
+    .stile_grap>h3 {
+        font-size: 15px;
+        line-height: 10px;
+    }
+
+    .stile_grap>p {
+        font-size: 10px;
+        line-height: 20px;
+
+    }
+
+    .inpintv {
+        width: 100%;
+    }
+
+    .save_for {
+        font-size: 10px;
+    }
+
+    .save {
+        font-size: 10px;
+    }
+
+    .Advertising {
+        width: 250px;
+        height: 497px;
+    }
+
+    .send {
+        width: 355px;
+    }
+
+    .PFU {
+        width: 350px;
+    }
+
+    .logoName {
+        display: none;
+    }
+
+    .logoSubName {
+        display: none;
+    }
+
+    .logo_div_footer {
+        display: none;
+    }
+
+    footer {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+
+    .Frame {
+        display: none;
+    }
+
+    .languige {
+        display: none;
+    }
+
+    .chevron {
+        display: none;
+    }
+
+    .fileblock {
+        width: 390px;
+    }
+
+    .messadje {
+        width: 390px;
+    }
+
+    .fileblockUrl {
+        width: 390px;
+    }
+
+    #link_uploads {
+        width: 340px;
+    }
+
+    .blue {
+        width: 130px;
+        font-size: 10px;
+    }
+
+    .zaglav {
+        color: #E6E7F1;
+        font-family: Helvetica Neue;
+        font-size: 10px;
+        font-weight: 500;
+        line-height: 22px;
+        text-align: left;
+        width: 250px;
+        height: 22px;
+        margin-bottom: 15px;
+    }
+
+    .necessary {
+        color: #C2C2C9;
+        font-family: Helvetica Neue;
+        font-size: 8px;
+        align-self: center;
+
+    }
+
+    .flex {
+        display: flex;
+        flex-direction: column;
+        align-items: flex-start;
+        justify-content: center;
+    }
+
+    h4.fontsize {
+        font-size: 8px;
+        margin: unset;
+        align-self: center;
+    }
+
+    .block_two {
+        margin-right: 30px;
+        width: 250px;
+    }
+
+    .Home_page {
+        font-size: 10px;
+    }
+
+    .Resources {
+        font-size: 10px;
+        width: 80px;
+    }
+
+    .program {
+        font-size: 10px;
+        width: 93px;
+    }
+
+    .stile_grap>h3 {
+        font-size: 9px;
+        line-height: 10px;
+    }
+
+    .stile_grap>p {
+        font-size: 7px;
+        line-height: 20px;
+    }
+
+    .save {
+        font-size: 9px;
+    }
+
+    .fileblockt {
+        width: 180px;
+    }
+
+    .modal-content {
+        width: 395px;
+        height: 720px;
+    }
+
+    .modal-title {
+        font-family: Helvetica Neue;
+        font-size: 15px;
+    }
+
+    #Check {
+        width: 300px;
+    }
+
+    .form-check.form-switch {
+        width: 300px;
+        height: 40px;
+    }
+
+    .div_num {
+        width: 125px;
+        text-align: left;
+    }
+
+    .lable-number {
+        font-size: 9px;
+    }
+
+    .number {
+        width: 120px;
+        height: 25px;
+    }
+
+    .btn-seve {
+        width: 120px;
+        height: 40px;
+    }
+
+    button.btn.btn-secondary {
+        width: 300px;
+        height: 35px;
+    }
+
+    button.dropbtn {
+        font-size: 11px;
+    }
+
+    #pleas-logged-div {
+        width: 350px;
+        height: 280px;
+    }
+
+    .pleas-logged-h1-div>h3 {
+        font-size: 12px;
+    }
+
+    .pleas-logged-h1-div>h1 {
+        font-size: 14px;
+    }
+
+    .logged-btn {
+        width: 130px;
+        height: 35px;
+    }
+
+    .sign-btn {
+        width: 130px;
+        height: 35px;
+    }
+
+    .line {
+        width: 295px;
+    }
+
+    .formemailcode {
+        width: 305px;
+    }
+
+    input.inpemail {
+        width: 50px;
+        height: 50px;
+    }
+
+    .formemail {
+        width: 100%;
+    }
+
+    span.loader_white {
+        left: 163px;
+    }
+
+    button.btnEmail {
+        width: 100%;
+    }
+
+    .displaymodel {
+        width: 300px;
+    }
+
+    .butonModel {
+        width: 300px;
+    }
+
+    .inpnewpass {
+        width: 340px !important;
+    }
+
+    .loginlogged {
+        width: 390px;
+    }
+
+    .btn-outlin-two {
+        width: 340px !important;
+    }
+
+    input.passwordPassdelinp {
+        width: 300px;
+        font-size: 10px;
+    }
+
+    .btndellpassdiv {
+        width: 300px;
+    }
+
+    .positionab {
+        bottom: 405px;
+        right: 72px;
+        width: 15px;
+    }
+
+    button.btn-Dell {
+        width: 135px;
+    }
+
+    button.btn-Save {
+        width: 135px;
+    }
+
+    .btndellpassblurdiv {
+        width: 350px;
+    }
+
+    input.passwordPassdelblurinp {
+        width: 350px;
+        align-self: center;
+    }
+
+    button.btn_dell-copyblur {
+        width: 160px;
+    }
+
+    button.btn-dellblur {
+        width: 160px;
+    }
+
+    .passwordPassdivblurDell {
+        width: 100%;
+        height: 695px;
+    }
+
+    select.passwordlinkselect {
+        width: 60px;
+        font-size: 10px;
+    }
+
+    button.passwordlinkbtnone {
+        width: 60px;
+    }
+
+    .passwordlinkinp {
+        width: 260px;
+        font-size: 11px;
+    }
+
+    button.btn_link_pass {
+        width: 140px;
+        font-size: 10px;
+    }
+
+    .passwordlinkh1 {
+        font-size: 21px;
+    }
+
+    h5.passwordlinkh5two {
+        font-size: 10px;
+    }
+
+    h1.passwordlinkh1two {
+        font-size: 11px;
+    }
+
+    .backgraundcolorsel {
+        width: 379px;
+    }
+
+    .btnpasslink {
+        width: 379px;
+    }
+
+    input.passwordPassinp {
+        width: 230px;
+    }
+
+    button.passwordPassbtn {
+        width: 100px;
+        height: 50px;
+    }
+
+    h1.passwordPassdivh1 {
+        font-size: 12px;
+    }
+
+    .passwordPassdiv {
+        height: 695px;
+    }
+
+    .formstext {
+        min-height: 550px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+
+    .blue {
+        width: 110px;
+        font-size: 10px;
+        display: flex;
+        align-items: center;
+    }
+    div#lineresizetextarea {
+        display: none;
+    }
+    .quantity-arrow-plussimvoles{
+        left: 331px;
+        top: 338px;
+    }
+    .quantity-arrow-minussimvoles{
+        left: 331px;
+        top: 352px;
+    }
+    .quantity-arrow-minusdzaynavorner{
+    
+        left: 155px;
+        top: 415px;
+    }
+    .quantity-arrow-plusdzaynavorner{
+ 
+        left: 155px;
+        top: 400px;
+    }
+    .quantity-arrow-plusmaximumlenght{
+        left: 155px;
+        top: 338px;
+    }
+    .quantity-arrow-minusmaximumlenght{
+        left: 154px;
+        top: 354px;
+
+    }
+    .quantity-arrow-plusminimumlenght{
+        left: 330px;
+        top: 275px;
+    }
+    .quantity-arrow-minusminimumlenght{
+        left: 330px;
+        top: 290px;
+    }
+
+    .quantity-arrow-minusnumberlenght{
+        left: 155px;
+        top: 290px;
+    }
+    .quantity-arrow-plusnumberlenght {
+        left: 155px;
+        top: 276px;
+    }
+   
+    .quantity-arrow-minusbovandak{
+        left: 330px;
+        top: 415px;
+    }
+    .quantity-arrow-plusbovandak{
+        left: 330px;
+        top: 400px;
+    }
+}
+
+
+@media screen and (max-width: 412px) {
+    .loginlogged {
+        width: 400px !important;
+    }
+    div#lineresizetextarea {
+        display: none;
+    }
+    .inp {
+        width: 330px !important;
+    }
+
+    .btn-outlin {
+        width: 330px !important;
+    }
+
+    .lineloggedin {
+        width: 350px !important;
+    }
+
+    .positionab {
+        bottom: 410px;
+        right: 72px;
+        width: 15px;
+    }
+
+    .passwordPassdivblurDell {
+        width: 100%;
+        height: 715px;
+    }
+
+    .backgraundcolorsel {
+        width: 379px;
+    }
+
+    .btnpasslink {
+        width: 379px;
+    }
+
+    .passwordPassdiv {
+        height: 713px;
+    }
+
+    .formstext {
+        min-height: 575px;
+    }
+}
+
+@media screen and (max-width: 390px) {
+    .conteiner {
+        max-width: 390px;
+        width: 100%;
+        height: auto;
+    }
+
+    .header {
+        width: 390px;
+        height: 100px;
+    }
+
+    .modal-content {
+        width: 370px;
+        height: 720px;
+    }
+
+    span.loader_white {
+        left: 152px;
+    }
+
+    .linePass-forgot {
+        width: 200px !important;
+    }
+
+    .znanie {
+        font-size: 8px;
+    }
+
+    select.passwordlinkselect {
+        width: 60px;
+        font-size: 9px;
+    }
+
+    input.passwordPassinp {
+        width: 230px;
+    }
+
+    button.passwordPassbtn {
+        width: 100px;
+        height: 50px;
+    }
+
+    h1.passwordPassdivh1 {
+        font-size: 11px;
+    }
+
+    .passwordPassdiv {
+        height: 695px;
+    }
+    .quantity-arrow-plussimvoles{
+        left: 315px;
+    }
+    .quantity-arrow-minussimvoles{
+        left: 315px;
+    }
+    .quantity-arrow-minusdzaynavorner{
+        left: 140px;
+    }
+    .quantity-arrow-plusdzaynavorner{
+        left: 140px;
+    }
+    .quantity-arrow-plusmaximumlenght{
+        left: 140px;
+    }
+    .quantity-arrow-minusmaximumlenght{
+        left: 140px;
+    }
+    .quantity-arrow-plusminimumlenght{
+        left: 315px;
+    }
+    .quantity-arrow-minusminimumlenght{
+        left: 315px;
+    }
+
+    .quantity-arrow-minusnumberlenght{
+        left: 140px;    
+    }
+    .quantity-arrow-plusnumberlenght {
+        left: 140px;
+    }
+   
+    .quantity-arrow-minusbovandak{
+        left: 315px;
+    }
+    .quantity-arrow-plusbovandak{
+        left: 315px;
+    }
+}
+
+@media screen and (max-width: 375px) {
+    .conteiner {
+        max-width: 375px;
+        width: 100%;
+        height: auto;
+    }
+
+    .header {
+        width: 375px;
+        height: 100px;
+    }
+
+    .placetext {
+        width: 335px;
+        height: 243px;
+        border-radius: 0px 12px 12px 12px;
+    }
+
+    .boxsilver {
+        width: 392px;
+        height: 497px;
+    }
+
+    .btn-outline {
+        margin-right: 40px;
+    }
+
+    .btn-lin-hover {
+        width: 200px;
+        height: 40px;
+    }
+
+    .url {
+        width: 80px;
+    }
+
+    .sevenday {
+        width: 130px;
+    }
+
+    .sevendrop {
+        width: 115px;
+    }
+
+    .cheer {
+        right: 70px;
+    }
+
+    .formdiv {
+        width: 250px;
+    }
+
+    .dropdawn {
+        width: 250px;
+    }
+
+    .check {
+        width: 30px;
+        height: 30px;
+    }
+
+    .stile_grap>h3 {
+        font-size: 15px;
+        line-height: 10px;
+    }
+
+    .stile_grap>p {
+        font-size: 10px;
+        line-height: 20px;
+
+    }
+
+    .inpintv {
+        width: 250px;
+    }
+
+    .save_for {
+        font-size: 10px;
+    }
+
+    .save {
+        font-size: 10px;
+    }
+
+    .Advertising {
+        width: 250px;
+        height: 497px;
+    }
+
+    .send {
+        width: 250px;
+    }
+
+    .logoName {
+        display: none;
+    }
+
+    .logoSubName {
+        display: none;
+    }
+
+    .logo_div_footer {
+        display: none;
+    }
+
+    footer {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+
+    .Frame {
+        display: none;
+    }
+
+    .languige {
+        display: none;
+    }
+
+    .chevron {
+        display: none;
+    }
+
+    .fileblock {
+        width: 250px;
+    }
+
+    .messadje {
+        width: 250px;
+    }
+
+    .fileblockUrl {
+        width: 250px;
+    }
+
+    #link_uploads {
+        width: 210px;
+    }
+
+    .blue {
+        width: 110px;
+        font-size: 10px;
+        display: flex;
+        align-items: center;
+    }
+
+    .zaglav {
+        color: #E6E7F1;
+        font-family: Helvetica Neue;
+        font-size: 10px;
+        font-weight: 500;
+        line-height: 22px;
+        text-align: left;
+        width: 250px;
+        height: 22px;
+        margin-bottom: 15px;
+    }
+
+    .necessary {
+        color: #C2C2C9;
+        font-family: Helvetica Neue;
+        font-size: 8px;
+        align-self: center;
+    }
+
+    .flex {
+        display: flex;
+        flex-direction: column;
+        align-items: flex-start;
+        justify-content: center;
+    }
+
+    .section {
+        margin-left: 0;
+        margin-right: 0;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+
+    .PFU {
+        width: 335px;
+    }
+
+    .block_two {
+        margin-right: 30px;
+        width: 250px;
+    }
+
+    .Home_page {
+        font-size: 10px;
+    }
+
+    .Resources {
+        font-size: 10px;
+        width: 80px;
+    }
+
+    .program {
+        font-size: 10px;
+        width: 93px;
+    }
+
+    .stile_grap>h3 {
+        font-size: 9px;
+        line-height: 10px;
+    }
+
+    .stile_grap>p {
+        font-size: 7px;
+        line-height: 20px;
+    }
+
+    .save {
+        font-size: 9px;
+    }
+
+    .fileblockt {
+        width: 180px;
+    }
+
+    .modal-content {
+        width: 350px;
+        height: 630px;
+    }
+
+    .modal-title {
+        font-family: Helvetica Neue;
+        font-size: 15px;
+    }
+
+    #Check {
+        width: 310px;
+    }
+
+    .form-check.form-switch {
+        width: 310px;
+        height: 40px;
+    }
+
+    .div_num {
+        width: 125px;
+        text-align: left;
+    }
+
+    .lable-number {
+        font-size: 9px;
+    }
+
+    .number {
+        width: 120px;
+        height: 25px;
+    }
+
+    .btn-seve {
+        width: 120px;
+        height: 40px;
+    }
+
+    button.btn.btn-secondary {
+        width: 315px;
+        height: 35px;
+    }
+
+    button.dropbtn {
+        font-size: 11px;
+    }
+
+    #pleas-logged-div {
+        width: 335px;
+        height: 280px;
+    }
+
+    .pleas-logged-h1-div>h3 {
+        font-size: 12px;
+    }
+
+    .pleas-logged-h1-div>h1 {
+        font-size: 14px;
+    }
+
+    .logged-btn {
+        width: 130px;
+        height: 35px;
+    }
+
+    .sign-btn {
+        width: 130px;
+        height: 35px;
+    }
+
+    span.loader_white {
+        left: 137px;
+    }
+
+    span.loader_white {
+        left: 144px;
+    }
+
+    .forgotpassmob {
+        width: 300px;
+        height: auto;
+    }
+
+    input.inppass {
+        width: 275px !important;
+    }
+
+    button.btnpass {
+        width: 100% !important;
+    }
+
+    .znanie {
+        font-size: 8px !important;
+    }
+
+    .displaymodel {
+        width: 310px;
+    }
+
+    .butonModel {
+        width: 310px;
+    }
+
+    .inp {
+        width: 340px;
+    }
+
+    input.passwordPassdelinp {
+        width: 300px;
+        font-size: 9px;
+    }
+
+    .btndellpassdiv {
+        width: 300px;
+    }
+
+    .positionab {
+        bottom: 178px;
+        right: 65px;
+        width: 15px;
+    }
+
+    button.btn-Dell {
+        width: 135px;
+    }
+
+    button.btn-Save {
+        width: 135px;
+    }
+
+    .btndellpassblurdiv {
+        width: 350px;
+    }
+
+    input.passwordPassdelblurinp {
+        width: 350px;
+        align-self: center;
+    }
+
+    button.btn_dell-copyblur {
+        width: 160px;
+    }
+
+    button.btn-dellblur {
+        width: 160px;
+    }
+
+    select.passwordlinkselect {
+        width: 60px;
+        font-size: 8px;
+    }
+
+    button.passwordlinkbtnone {
+        width: 60px;
+    }
+
+    .passwordlinkinp {
+        width: 230px;
+        font-size: 9px;
+    }
+
+    button.btn_link_pass {
+        width: 140px;
+        font-size: 9px;
+    }
+
+    .passwordlinkh1 {
+        font-size: 21px;
+    }
+
+    h5.passwordlinkh5two {
+        font-size: 10px;
+    }
+
+    h1.passwordlinkh1two {
+        font-size: 11px;
+    }
+
+    .backgraundcolorsel {
+        width: 350px;
+    }
+
+    .btnpasslink {
+        width: 350px;
+    }
+
+    input.passwordPassinp {
+        width: 230px;
+    }
+
+    button.passwordPassbtn {
+        width: 100px;
+        height: 50px;
+    }
+
+    h1.passwordPassdivh1 {
+        font-size: 10px;
+    }
+
+    h4.fontsize {
+        font-size: 9px;
+        margin: unset;
+        align-self: center;
+    }
+    .notnecessary {
+        width: 145px;
+    }
+    .quantity-arrow-plussimvoles{
+        left: 310px;
+        top: 277px;
+    }
+    .quantity-arrow-minussimvoles{
+        left: 310px;
+        top: 293px;
+    }
+    .quantity-arrow-minusdzaynavorner{
+        left: 120px;
+        top: 355px;
+    }
+    .quantity-arrow-plusdzaynavorner{
+        left: 120px;
+        top: 340px;
+    }
+    .quantity-arrow-plusmaximumlenght{
+        left: 310px;
+        top: 215px;
+    }
+    .quantity-arrow-minusmaximumlenght{
+        left: 310px;
+        top: 230px;
+    }
+    .quantity-arrow-plusminimumlenght{
+        left: 120px;
+        top: 277px;
+    }
+    .quantity-arrow-minusminimumlenght{
+        left: 120px;
+        top: 290px;
+    }
+
+    .quantity-arrow-minusnumberlenght{
+        left: 120px;
+        top: 230px;  
+    }
+    .quantity-arrow-plusnumberlenght {
+        left: 120px;
+        top: 215px;
+    }
+   
+    .quantity-arrow-minusbovandak{
+        left: 310px;
+        top: 355px;
+    }
+    .quantity-arrow-plusbovandak{
+        left: 310px;
+        top: 340px;
+    }
+}
+
+@media screen and (max-width: 360px) {
+    span.loader_white {
+        left: 137px;
+    }
+
+    .passwordlinkinp {
+        width: 213px;
+    }
+
+    .backgraundcolorsel {
+        width: 330px;
+    }
+
+    .btnpasslink {
+        width: 330px;
+    }
+
+    button.passwordPassbtn {
+        margin-left: 5px;
+    }
+}
+
+@media screen and (max-width: 350px) {
+    .conteiner {
+        max-width: 350px;
+        width: 100%;
+        height: auto;
+    }
+    .displaymodel {
+        width: 270px;
+    }
+    .header {
+        width: 350px;
+        height: 100px;
+    }
+    .butonModel {
+        width: 270px;
+    }
+    .placetext {
+        width: 334px;
+        height: 243px;
+        border-radius: 0px 12px 12px 12px;
+    }
+
+    .boxsilver {
+        width: 392px;
+        height: 497px;
+    }
+
+    .btn-outline {
+        margin-right: 40px;
+    }
+
+    .btn-lin-hover {
+        width: 200px;
+        height: 40px;
+    }
+
+    .url {
+        width: 80px;
+    }
+
+    .sevenday {
+        width: 130px;
+    }
+
+    .sevendrop {
+        width: 115px;
+    }
+
+    .cheer {
+        right: 70px;
+    }
+
+    .formdiv {
+        width: 250px;
+    }
+
+    .dropdawn {
+        width: 250px;
+    }
+
+    .check {
+        width: 30px;
+        height: 30px;
+    }
+
+    .stile_grap>h3 {
+        font-size: 15px;
+        line-height: 10px;
+    }
+
+    .stile_grap>p {
+        font-size: 10px;
+        line-height: 20px;
+
+    }
+
+    .inpintv {
+        width: 250px;
+    }
+
+    .save_for {
+        font-size: 10px;
+    }
+
+    .save {
+        font-size: 10px;
+    }
+
+    .Advertising {
+        width: 250px;
+        height: 497px;
+    }
+
+    .send {
+        width: 250px;
+    }
+
+    .logoName {
+        display: none;
+    }
+
+    .logoSubName {
+        display: none;
+    }
+
+    .logo_div_footer {
+        display: none;
+    }
+
+    footer {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+
+    .Frame {
+        display: none;
+    }
+
+    .languige {
+        display: none;
+    }
+
+    .chevron {
+        display: none;
+    }
+
+    .fileblock {
+        width: 250px;
+    }
+
+    .messadje {
+        width: 250px;
+    }
+
+    .fileblockUrl {
+        width: 250px;
+    }
+
+    #link_uploads {
+        width: 210px;
+    }
+
+    .blue {
+        width: 110px;
+        font-size: 10px;
+    }
+
+    .zaglav {
+        color: #E6E7F1;
+        font-family: Helvetica Neue;
+        font-size: 10px;
+        font-weight: 500;
+        line-height: 22px;
+        text-align: left;
+        width: 250px;
+        height: 22px;
+        margin-bottom: 15px;
+    }
+
+    .necessary {
+        color: #C2C2C9;
+        font-family: Helvetica Neue;
+        font-size: 8px;
+    }
+
+    .block_two {
+        margin-right: 30px;
+        width: 250px;
+    }
+
+    .Home_page {
+        font-size: 10px;
+    }
+
+    .Resources {
+        font-size: 10px;
+        width: 80px;
+    }
+
+    .program {
+        font-size: 10px;
+        width: 93px;
+    }
+
+    .stile_grap>h3 {
+        font-size: 9px;
+        line-height: 10px;
+    }
+
+    .stile_grap>p {
+        font-size: 7px;
+        line-height: 20px;
+    }
+
+    .save {
+        font-size: 9px;
+    }
+
+    .fileblockt {
+        width: 180px;
+    }
+
+    .modal-content {
+        width: 305px;
+        height: 720px;
+    }
+
+    .modal-title {
+        font-family: Helvetica Neue;
+        font-size: 15px;
+    }
+
+    #Check {
+        width: 275px;
+    }
+
+    .form-check.form-switch {
+        width: 275px;
+        height: 40px;
+    }
+
+    .div_num {
+        width: 125px;
+        text-align: left;
+    }
+
+    .lable-number {
+        font-size: 9px;
+    }
+
+    .number {
+        width: 110px;
+        height: 25px;
+    }
+
+    .btn-seve {
+        width: 120px;
+        height: 40px;
+    }
+
+    button.btn.btn-secondary {
+        width: 265px;
+        height: 35px;
+    }
+
+    button.dropbtn {
+        font-size: 11px;
+    }
+
+    #pleas-logged-div {
+        width: 300px;
+        height: 280px;
+    }
+
+    .pleas-logged-h1-div>h3 {
+        font-size: 12px;
+    }
+
+    .pleas-logged-h1-div>h1 {
+        font-size: 14px;
+    }
+
+    .logged-btn {
+        width: 130px;
+        height: 35px;
+    }
+
+    .sign-btn {
+        width: 130px;
+        height: 35px;
+    }
+
+    body {
+        padding-right: unset !important;
+    }
+    .quantity-arrow-plussimvoles{
+        left: 255px;
+        top: 338px;
+    }
+    .quantity-arrow-minussimvoles{
+        left: 255px;
+        top: 352px;
+    }
+    .quantity-arrow-minusdzaynavorner{
+        left: 107px;
+        top: 415px;
+    }
+    .quantity-arrow-plusdzaynavorner{
+        left: 107px;
+        top: 400px;
+    }
+    .quantity-arrow-plusmaximumlenght{
+        left: 107px;
+        top: 338px;
+    }
+    .quantity-arrow-minusmaximumlenght{
+        left: 107px;
+        top: 353px;
+
+    }
+    .quantity-arrow-plusminimumlenght{
+        left: 257px;
+        top: 275px;
+    }
+    .quantity-arrow-minusminimumlenght{
+        left: 257px;
+        top: 290px;
+    }
+
+    .quantity-arrow-minusnumberlenght{
+        left: 107px;
+        top: 290px;
+    }
+    .quantity-arrow-plusnumberlenght {
+        left: 107px;
+        top: 275px;
+    }
+   
+    .quantity-arrow-minusbovandak{
+        left: 255px;
+        top: 415px;
+    }
+    .quantity-arrow-plusbovandak{
+        left: 255px;
+        top: 400px;
+    }
+}
+
+@media screen and (max-width: 280px) {
+    .conteiner {
+        max-width: 280px;
+        width: 100%;
+        height: auto;
+    }
+
+    .header {
+        width: 280px;
+        height: 100px;
+    }
+
+    .modal-content {
+        width: 370px;
+        height: 720px;
+    }
+
+    .login {
+        color: #E6E7F1;
+        font-family: Helvetica Neue;
+        font-size: 10px;
+    }
+
+    .Sign {
+        color: #E6E7F1;
+        font-family: Helvetica Neue;
+        font-size: 10px;
+    }
+
+    .modal-content {
+        width: 264px;
+        height: 550px;
+    }
+
+    .modal-title {
+        font-family: Helvetica Neue;
+        font-size: 12px;
+    }
+
+    #Check {
+        width: 235px;
+        height: 35px;
+    }
+
+    .form-check.form-switch {
+        width: 240px;
+        height: 35px;
+        margin-top: 5px;
+    }
+
+    .btn-seve {
+        width: 100px;
+        height: 30px;
+    }
+
+    button.btn.btn-secondary {
+        width: 220px;
+        height: 35px;
+    }
+
+    input.inpemail {
+        width: 40px;
+        height: 40px;
+    }
+
+    form.forgotpassmob {
+        width: 255px;
+    }
+
+    .formemailcode {
+        width: 250px;
+    }
+
+    .contents {
+        width: 477px;
+        height: 540px;
+    }
+
+    .line {
+        width: 240px;
+    }
+
+    .emailaddres {
+        font-size: 9px;
+    }
+
+    h1.zaglavemailaddres {
+        font-size: 11px;
+        text-align: center;
+    }
+
+    span.loader_white {
+        left: 97px;
+    }
+
+    .btn_Agen {
+        font-size: 13px;
+    }
+
+    input.inppass {
+        width: 230px !important;
+        height: 40px;
+    }
+
+    .indexz {
+        bottom: 138px !important;
+    }
+
+    .znanie {
+        font-size: 7px !important;
+    }
+
+    .displaymodel {
+        width: 240px;
+    }
+
+    .butonModel {
+        width: 240px;
+    }
+
+    .obesnen {
+        width: 200px;
+    }
+
+    .block_two {
+        margin-right: 30px;
+    }
+
+    .logo_block {
+        width: 280px;
+    }
+
+    button.dropbtn {
+        font-size: 6px;
+    }
+
+    #img-down {
+        width: unset;
+        height: unset;
+        background-image: unset;
+    }
+
+    #img-dovn {
+        width: unset;
+        height: unset;
+        background-image: unset;
+    }
+
+    .btn-outlin {
+        width: 185px !important;
+    }
+
+    .inp {
+        width: 183px !important;
+    }
+
+    .lineloggedin {
+        width: 160px !important;
+    }
+
+    .display-h1>h4 {
+        font-size: 8px !important;
+    }
+
+    .display-h1>p {
+        font-size: 10px !important;
+    }
+
+    input.passwordPassdelinp {
+        width: 250px;
+    }
+
+    .btndellpassdiv {
+        width: 250px;
+    }
+
+    .positionab {
+        bottom: 265px;
+        right: 20px;
+        width: 15px;
+    }
+
+    button.btn-Dell {
+        width: 135px;
+    }
+
+    button.btn-Save {
+        width: 135px;
+    }
+
+    .passwordPassdivDell {
+        height: 470px;
+    }
+
+    p.passdellp {
+        font-size: 5px;
+    }
+
+    label.passdelllable {
+        font-size: 10px;
+    }
+
+    h1.passwordPassDelldivh1 {
+        font-size: 10px;
+    }
+
+    .btndellpassblurdiv {
+        width: 250px;
+    }
+
+    input.passwordPassdelblurinp {
+        width: 250px;
+        align-self: center;
+    }
+
+    button.btn_dell-copyblur {
+        width: 100px;
+        height: 50px;
+    }
+
+    button.btn-dellblur {
+        width: 100px;
+        height: 50px;
+    }
+
+    .passwordPassdivblurDell {
+        width: 100%;
+        height: 450px;
+    }
+
+    h1.passwordPassDelldivblurh1 {
+        font-size: 10px;
+    }
+
+    label.passdelllableblur {
+        font-size: 8px;
+    }
+
+    .blurpassp {
+        font-size: 5px;
+    }
+
+    span.span_passdellblur {
+        margin-right: 8px;
+    }
+
+    button.btn_dell-copyblur>img {
+        width: 15px;
+    }
+
+    button.btn-dellblur>img {
+        width: 10px;
+    }
+
+    button.btn_link_pass {
+        width: 100px;
+        font-size: 5px;
+    }
+
+    .backgraundcolorsel {
+        width: 240px;
+    }
+
+    .passwordlinkinp {
+        width: 155px;
+        font-size: 9px;
+    }
+
+    .btnpasslink {
+        width: 250px;
+    }
+
+    .passwordlinkh1 {
+        font-size: 16px;
+    }
+
+    button.passwordPassbtn {
+        margin-left: 5px;
+        width: 80px;
+        height: 40px;
+    }
+
+    input.passwordPassinp {
+        width: 160px;
+        height: 40px;
+    }
+
+    h1.passwordPassdivh1 {
+        font-size: 7px;
+    }
+
+    .passwordPassdiv {
+        height: 450px;
+    }
+
+    #pleas-logged-div {
+        width: 260px;
+        height: 280px;
+    }
+
+    .logged-btn {
+        width: 100px;
+        height: 35px;
+    }
+
+    .sign-btn {
+        width: 100px;
+        height: 35px;
+    }
+
+    .pleas-logged-h1-div>h1 {
+        font-size: 11px;
+    }
+
+    .btn-lin-hover {
+        width: 170px;
+        height: 40px;
+    }
+}

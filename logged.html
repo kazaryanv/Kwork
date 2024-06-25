@@ -1,0 +1,566 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="https://fonts.cdnfonts.com/css/helvetica-neue-5" rel="stylesheet">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link
+        href="https://fonts.googleapis.com/css2?family=Kanit:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap"
+        rel="stylesheet">
+        <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
+    <link rel="stylesheet" href="./css/style.css">
+    <link rel="stylesheet" href="./css/media.css">
+    <title>Logged in</title>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz" crossorigin="anonymous"></script>
+</head>
+
+<body>
+    <div class="conteiner">
+        <header>
+            <div class="logo_block">
+                <div class="block_one">
+                    <div class="logo_div">
+                        <a href="./logged.html">
+                            <img class="logo"
+                                src="./img/logo.png"
+                                alt="">
+                        </a>
+                    </div>
+                    <div>
+                        <h1 class="logoName">Password Pusher</h1>
+                        <p class="logoSubName">Go forward. Send an email with a different password.</p>
+                    </div>
+                </div>
+                <div class="block_two">
+                    <div class="block_Sign">
+                        <a class="Sign" href="#">
+                            <div>Action Bar</div>
+                            <div class="signline"></div>
+                        </a>
+                    </div>
+                    <div class="block_login">
+                            <div class="dropdown">
+                                <div class="dropdown">
+                                    <button onclick="myFuncLogget()" class="dropbtn" id="dropbtn" type="button" style="font-size: 16px;">Account</button>
+                                    <div id="img-dovn">   <svg width="22" height="22" viewBox="0 0 22 22" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                        <path d="M15.8087 8.51656C15.6369 8.34583 15.4046 8.25 15.1624 8.25C14.9202 8.25 14.6879 8.34583 14.5162 8.51656L11.2253 11.7616L7.98034 8.51656C7.80859 8.34583 7.57626 8.25 7.33409 8.25C7.09192 8.25 6.85958 8.34583 6.68784 8.51656C6.60192 8.60178 6.53372 8.70316 6.48718 8.81486C6.44065 8.92657 6.41669 9.04638 6.41669 9.16739C6.41669 9.2884 6.44065 9.40822 6.48718 9.51992C6.53372 9.63163 6.60192 9.73301 6.68784 9.81823L10.5745 13.7049C10.6597 13.7908 10.7611 13.859 10.8728 13.9055C10.9845 13.9521 11.1043 13.976 11.2253 13.976C11.3463 13.976 11.4662 13.9521 11.5779 13.9055C11.6896 13.859 11.791 13.7908 11.8762 13.7049L15.8087 9.81823C15.8946 9.73301 15.9628 9.63163 16.0093 9.51992C16.0559 9.40822 16.0798 9.2884 16.0798 9.16739C16.0798 9.04638 16.0559 8.92657 16.0093 8.81486C15.9628 8.70316 15.8946 8.60178 15.8087 8.51656Z" fill="#E6E7EF"/>
+                                        </svg>
+                                    </div>
+                                    <div id="myfunclog" class="dropdown-content" style="width: 210px;height: 145px;right: 0;top: 35px;bottom: unset;">
+                                        <div class="line-stile"> 
+                                            <a class="dropdown-alist" href="#">Edit Account</a>
+                                            <div class="line-dropdawn"></div>
+                                        </div>
+                                        <div class="line-stile"> 
+                                            <a class="dropdown-alist" href="#">API token</a>
+                                            <div class="line-dropdawn"></div>
+                                        </div>
+                                        <div class="line-stile"> 
+                                            <a class="dropdown-alist" href="./pleas-logged.html">Sign Out</a>
+                                            <div class="line-dropdawn"></div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                    </div>
+                    <div class="languige">
+                        <button onclick="myFunctionLoggetlanguige()" class="selectedLanguige" id="dropbtn" type="button">
+                            <svg width="22" height="22" viewBox="0 0 22 22" fill="none"
+                                xmlns="http://www.w3.org/2000/svg">
+                                <g clip-path="url(#clip0_546_203)">
+                                    <path class="black" stroke="#E6E7EF"
+                                        d="M11 20.1666C16.0626 20.1666 20.1666 16.0625 20.1666 10.9999C20.1666 5.93731 16.0626 1.83325 11 1.83325C5.93737 1.83325 1.83331 5.93731 1.83331 10.9999C1.83331 16.0625 5.93737 20.1666 11 20.1666Z"
+                                        stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+                                    <path class="black" stroke="#E6E7EF" d="M1.83331 11H20.1666" stroke-width="2"
+                                        stroke-linecap="round" stroke-linejoin="round" />
+                                    <path class="black" stroke="#E6E7EF"
+                                        d="M11 1.83325C13.2928 4.34341 14.5958 7.60095 14.6666 10.9999C14.5958 14.3989 13.2928 17.6564 11 20.1666C8.70714 17.6564 7.40412 14.3989 7.33331 10.9999C7.40412 7.60095 8.70714 4.34341 11 1.83325V1.83325Z"
+                                        stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+                                </g>
+                                <defs>
+                                    <clipPath id="clip0_546_203">
+                                        <rect width="22" height="22" fill="white" />
+                                    </clipPath>
+                                </defs>
+                            </svg>
+                            <span>Language</span>
+                            <svg width="22" height="22" viewBox="0 0 22 22" fill="none"
+                                xmlns="http://www.w3.org/2000/svg">
+                                <path class="blackone"
+                                    d="M15.8087 8.51656C15.6369 8.34583 15.4046 8.25 15.1624 8.25C14.9202 8.25 14.6879 8.34583 14.5162 8.51656L11.2253 11.7616L7.98034 8.51656C7.80859 8.34583 7.57626 8.25 7.33409 8.25C7.09192 8.25 6.85958 8.34583 6.68784 8.51656C6.60192 8.60178 6.53372 8.70316 6.48718 8.81486C6.44065 8.92657 6.41669 9.04638 6.41669 9.16739C6.41669 9.2884 6.44065 9.40822 6.48718 9.51992C6.53372 9.63163 6.60192 9.73301 6.68784 9.81823L10.5745 13.7049C10.6597 13.7908 10.7611 13.859 10.8728 13.9055C10.9845 13.9521 11.1043 13.976 11.2253 13.976C11.3463 13.976 11.4662 13.9521 11.5779 13.9055C11.6896 13.859 11.791 13.7908 11.8762 13.7049L15.8087 9.81823C15.8946 9.73301 15.9628 9.63163 16.0093 9.51992C16.0559 9.40822 16.0798 9.2884 16.0798 9.16739C16.0798 9.04638 16.0559 8.92657 16.0093 8.81486C15.9628 8.70316 15.8946 8.60178 15.8087 8.51656Z"
+                                    fill="#E6E7EF" />
+                            </svg>
+                        </button>
+                        <div id="myDropdownlanguiges" class="dropdown-content" style="right: 100px;top: 80px;width: 190px;height: 50px;">
+                            <div class="line-stile"> 
+                            <a class="dropdown-alist" href="#Languige-Englishe?">English</a>
+                            <div class="line-dropdawn"></div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </header>
+    </div>
+
+    <div class="conteiner">
+        <div class="formstext" id="forms">
+            <div class="section">
+                <div class="PFU">
+                    <button type="button" id="Passwords" class="url url1" value="password">Passwords</button>
+                    <button type="button" id="Files" class="url" value="files">Files</button>
+                    <button type="button" id="URLs" class="url" value="URLs">URLs</button>
+                </div>
+
+                <div class="textinurl">
+                    <textarea class="placetext" name="" id="placetextA" cols="30" rows="10"
+                        placeholder="Enter password or text !"></textarea>
+                        <div class="line_resize-textarea" id="lineresizetextarea"><span class="line_textarea-big"></span> <span class="line_textarea-small"></span></div>
+                    <div id="filenon">
+                        <div class="fileblock">
+                            <div class="fileblockt">
+                                <label for="image_uploads" class="lableinp">Add files</label>
+                                <input type="file" id="image_uploads" name="image_uploads" accept=".jpg, .jpeg, .png"
+                                    multiple />
+                            </div>
+                        </div>
+                        <p class="filep">You can upload up to 10 files in one click.</p>
+                        <div>
+                            <div class="inbtnMes">Message</div>
+                            <textarea class="messadje" name="" id="" cols="30" rows="10"
+                                placeholder="Optional: Message to be added to the shipment"></textarea>
+                            <p class="filep">Encrypted and visible to the receiving party</p>
+                        </div>
+                        <div>
+                            <div class="inbtnMes">Reference Note</div>
+                            <textarea class="messadje" name="" id="" cols="30" rows="10"
+                                placeholder="Not necessary"></textarea>
+                            <p class="filep">Encrypted and visible only to you</p>
+                        </div>
+                    </div>
+                    <div id="linkenone">
+                        <!--  -->
+                        <div class="fileblockUrl">
+                            <input type="text" id="link_uploads" name="image_uploads"
+                                placeholder="Enter URL to redirect..." />
+                        </div>
+                        <p class="filep">You can upload up to 10 files in one click.</p>
+                        <div>
+                            <div class="inbtnMes">Message</div>
+                            <textarea class="messadje" name="" id="" cols="30" rows="10"
+                                placeholder="Optional: Message to be added to the shipment"></textarea>
+                            <p class="filep">Encrypted and visible to the receiving party</p>
+                        </div>
+                        <!--  -->
+                    </div>
+                    <div class="silv">
+                        <div class="boxsilver">
+                            <h2 class="glavStr">Paste a password, secret message
+                                or private link below.</h2>
+                            <p class="dop">Tip: Enter only the password in the field. Other
+                                identifying information may compromise
+                                your security.</p>
+                            <p class="dop">All passwords are encrypted before storage
+                                and are only accessible to those with the
+                                secret link. Upon expiration, encrypted
+                                passwords are completely removed from
+                                the database.</p>
+                        </div>
+                        <div class="batnradio" id="radio">
+                            <div class="btn-outlin">
+                                <button onclick="genPassword()" type="button" class="btn-lin-hover">Generate a
+                                    password</button>
+                                <p class="obesnen">Use the button above to generate a random password.</p>
+                            </div>
+                            <div class="radiobtn">
+                                <button type="button" class="radiobtn" data-bs-toggle="modal"
+                                    data-bs-target="#staticBackdrop">
+                                    <svg width="22" height="22" viewBox="0 0 22 22" fill="none"
+                                    xmlns="http://www.w3.org/2000/svg">
+                                    <path
+                                        d="M19.8207 6.798V1.1C19.8207 0.808262 19.7046 0.528472 19.4978 0.322183C19.291 0.115892 19.0106 0 18.7182 0C18.4257 0 18.1453 0.115892 17.9385 0.322183C17.7317 0.528472 17.6156 0.808262 17.6156 1.1V6.798C16.977 7.02923 16.4253 7.45099 16.0354 8.00598C15.6455 8.56097 15.4363 9.22227 15.4363 9.9C15.4363 10.5777 15.6455 11.239 16.0354 11.794C16.4253 12.349 16.977 12.7708 17.6156 13.002V20.9C17.6156 21.1917 17.7317 21.4715 17.9385 21.6778C18.1453 21.8841 18.4257 22 18.7182 22C19.0106 22 19.291 21.8841 19.4978 21.6778C19.7046 21.4715 19.8207 21.1917 19.8207 20.9V13.002C20.4593 12.7708 21.011 12.349 21.4009 11.794C21.7908 11.239 22 10.5777 22 9.9C22 9.22227 21.7908 8.56097 21.4009 8.00598C21.011 7.45099 20.4593 7.02923 19.8207 6.798ZM18.7182 11C18.5001 11 18.2869 10.9355 18.1056 10.8146C17.9243 10.6937 17.7829 10.522 17.6995 10.321C17.616 10.12 17.5942 9.89878 17.6367 9.6854C17.6793 9.47202 17.7843 9.27602 17.9385 9.12218C18.0927 8.96835 18.2892 8.86358 18.503 8.82114C18.7169 8.77869 18.9386 8.80048 19.1401 8.88373C19.3416 8.96699 19.5138 9.10798 19.6349 9.28887C19.7561 9.46977 19.8207 9.68244 19.8207 9.9C19.8207 10.1917 19.7046 10.4715 19.4978 10.6778C19.291 10.8841 19.0106 11 18.7182 11ZM12.1026 13.398V1.1C12.1026 0.808262 11.9864 0.528472 11.7797 0.322183C11.5729 0.115892 11.2924 0 11 0C10.7076 0 10.4271 0.115892 10.2203 0.322183C10.0136 0.528472 9.89741 0.808262 9.89741 1.1V13.398C9.25884 13.6292 8.70711 14.051 8.31721 14.606C7.92732 15.161 7.71816 15.8223 7.71816 16.5C7.71816 17.1777 7.92732 17.839 8.31721 18.394C8.70711 18.949 9.25884 19.3708 9.89741 19.602V20.9C9.89741 21.1917 10.0136 21.4715 10.2203 21.6778C10.4271 21.8841 10.7076 22 11 22C11.2924 22 11.5729 21.8841 11.7797 21.6778C11.9864 21.4715 12.1026 21.1917 12.1026 20.9V19.602C12.7412 19.3708 13.2929 18.949 13.6828 18.394C14.0727 17.839 14.2818 17.1777 14.2818 16.5C14.2818 15.8223 14.0727 15.161 13.6828 14.606C13.2929 14.051 12.7412 13.6292 12.1026 13.398ZM11 17.6C10.7819 17.6 10.5688 17.5355 10.3874 17.4146C10.2061 17.2937 10.0648 17.122 9.98134 16.921C9.89788 16.72 9.87605 16.4988 9.91859 16.2854C9.96114 16.072 10.0661 15.876 10.2203 15.7222C10.3745 15.5683 10.571 15.4636 10.7849 15.4211C10.9988 15.3787 11.2205 15.4005 11.4219 15.4837C11.6234 15.567 11.7956 15.708 11.9168 15.8889C12.0379 16.0698 12.1026 16.2824 12.1026 16.5C12.1026 16.7917 11.9864 17.0715 11.7797 17.2778C11.5729 17.4841 11.2924 17.6 11 17.6ZM4.38444 4.598V1.1C4.38444 0.808262 4.26827 0.528472 4.0615 0.322183C3.85472 0.115892 3.57427 0 3.28184 0C2.98942 0 2.70897 0.115892 2.50219 0.322183C2.29542 0.528472 2.17925 0.808262 2.17925 1.1V4.598C1.54068 4.82922 0.988957 5.25099 0.599059 5.80598C0.209162 6.36097 0 7.02227 0 7.7C0 8.37773 0.209162 9.03903 0.599059 9.59402C0.988957 10.149 1.54068 10.5708 2.17925 10.802V20.9C2.17925 21.1917 2.29542 21.4715 2.50219 21.6778C2.70897 21.8841 2.98942 22 3.28184 22C3.57427 22 3.85472 21.8841 4.0615 21.6778C4.26827 21.4715 4.38444 21.1917 4.38444 20.9V10.802C5.02301 10.5708 5.57473 10.149 5.96463 9.59402C6.35453 9.03903 6.56369 8.37773 6.56369 7.7C6.56369 7.02227 6.35453 6.36097 5.96463 5.80598C5.57473 5.25099 5.02301 4.82922 4.38444 4.598ZM3.28184 8.8C3.06377 8.8 2.8506 8.73549 2.66928 8.61462C2.48796 8.49375 2.34663 8.32195 2.26318 8.12095C2.17973 7.91995 2.15789 7.69878 2.20044 7.4854C2.24298 7.27202 2.34799 7.07602 2.50219 6.92218C2.65639 6.76835 2.85286 6.66358 3.06674 6.62114C3.28062 6.57869 3.50232 6.60048 3.70379 6.68373C3.90526 6.76699 4.07746 6.90798 4.19862 7.08887C4.31977 7.26977 4.38444 7.48244 4.38444 7.7C4.38444 7.99174 4.26827 8.27153 4.0615 8.47782C3.85472 8.68411 3.57427 8.8 3.28184 8.8Z"
+                                        fill="#F2F2F4" />
+                                </svg>
+                                </button>
+
+                                <!-- Модальное окно -->
+                                <div class="modal fade mymodel" id="staticBackdrop" data-bs-backdrop="static"
+                                    data-bs-keyboard="false" tabindex="-1" aria-labelledby="staticBackdropLabel"
+                                    aria-hidden="true">   
+                                    <button type="button" class="btn-close" data-bs-dismiss="modal"
+                                                    aria-label="Закрыть"></button>
+                                    <div class="modal-dialog">
+                                        <div class="modal-content">
+                                            <div class="modal-header">
+                                                <h5 class="modal-title" id="staticBackdropLabel">Password Generation
+                                                    Settings</h5>
+                                             
+                                            </div>
+                                            <div class="modal-body">
+                                                <div>
+                                                    <input class="form-control" type="text" name="" id="Check" readonly>
+                                                </div>
+                                                <div>
+                                                    <div>
+                                                        <div class="form-check form-switch">
+                                                            <input class="form-check-input " type="checkbox"
+                                                                id="numbers">
+                                                            <label class="form-check-label"
+                                                                for="numbers">Include Numbers</label>
+                                                        </div>
+                                                    </div>
+                                                    <div>
+                                                        <div class="form-check form-switch">
+                                                            <input class="form-check-input " type="checkbox"
+                                                                id="Razdel">
+                                                            <label class="form-check-label"
+                                                                for="Razdel">Use Capital
+                                                                Characters</label>
+                                                        </div>
+                                                    </div>
+                                                    <div>
+                                                        <div class="form-check form-switch">
+                                                            <input class="form-check-input " type="checkbox"
+                                                                id="simvols">
+                                                            <label class="form-check-label"
+                                                                for="simvols">Use Separators</label>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <div class="allinpModel">
+                                                    <div class="displaymodel">
+                                                        <div class="div_num">
+                                                            <label class="lable-number" for="numberlenght">Number Of Parts</label>
+                                                            <button class="quantity-arrow-minusnumberlenght"
+                                                                id="minusnumberlenght"
+                                                                onclick="MinusinputvalueNUmber()">
+                                                                <svg width="15" height="15" viewBox="0 0 22 22"
+                                                                    fill="none" xmlns="http://www.w3.org/2000/svg">
+                                                                    <path
+                                                                        d="M15.8087 8.51656C15.6369 8.34583 15.4046 8.25 15.1624 8.25C14.9202 8.25 14.6879 8.34583 14.5162 8.51656L11.2253 11.7616L7.98034 8.51656C7.80859 8.34583 7.57626 8.25 7.33409 8.25C7.09192 8.25 6.85958 8.34583 6.68784 8.51656C6.60192 8.60178 6.53372 8.70316 6.48718 8.81486C6.44065 8.92657 6.41669 9.04638 6.41669 9.16739C6.41669 9.2884 6.44065 9.40822 6.48718 9.51992C6.53372 9.63163 6.60192 9.73301 6.68784 9.81823L10.5745 13.7049C10.6597 13.7908 10.7611 13.859 10.8728 13.9055C10.9845 13.9521 11.1043 13.976 11.2253 13.976C11.3463 13.976 11.4662 13.9521 11.5779 13.9055C11.6896 13.859 11.791 13.7908 11.8762 13.7049L15.8087 9.81823C15.8946 9.73301 15.9628 9.63163 16.0093 9.51992C16.0559 9.40822 16.0798 9.2884 16.0798 9.16739C16.0798 9.04638 16.0559 8.92657 16.0093 8.81486C15.9628 8.70316 15.8946 8.60178 15.8087 8.51656Z"
+                                                                        fill="#000000"></path>
+                                                                </svg>
+                                                            </button>
+                                                            <input class="number" type="number" id="numberlenght"
+                                                                value="3" readonly />
+                                                            <button class="quantity-arrow-plusnumberlenght"
+                                                                id="plusnumberlenght" onclick="MaxinputvalueNum()">
+                                                                <svg viewBox="0 0 22 22" fill="none"
+                                                                    xmlns="http://www.w3.org/2000/svg">
+                                                                    <path
+                                                                        d="M15.8087 8.51656C15.6369 8.34583 15.4046 8.25 15.1624 8.25C14.9202 8.25 14.6879 8.34583 14.5162 8.51656L11.2253 11.7616L7.98034 8.51656C7.80859 8.34583 7.57626 8.25 7.33409 8.25C7.09192 8.25 6.85958 8.34583 6.68784 8.51656C6.60192 8.60178 6.53372 8.70316 6.48718 8.81486C6.44065 8.92657 6.41669 9.04638 6.41669 9.16739C6.41669 9.2884 6.44065 9.40822 6.48718 9.51992C6.53372 9.63163 6.60192 9.73301 6.68784 9.81823L10.5745 13.7049C10.6597 13.7908 10.7611 13.859 10.8728 13.9055C10.9845 13.9521 11.1043 13.976 11.2253 13.976C11.3463 13.976 11.4662 13.9521 11.5779 13.9055C11.6896 13.859 11.791 13.7908 11.8762 13.7049L15.8087 9.81823C15.8946 9.73301 15.9628 9.63163 16.0093 9.51992C16.0559 9.40822 16.0798 9.2884 16.0798 9.16739C16.0798 9.04638 16.0559 8.92657 16.0093 8.81486C15.9628 8.70316 15.8946 8.60178 15.8087 8.51656Z"
+                                                                        fill="#000000"></path>
+                                                                </svg>
+                                                            </button>
+                                                        </div>
+                                                        <div class="div_num">
+                                                            <label class="lable-number" for="minimumlenght">Minimum Part
+                                                                Length</label>
+                                                                <button class="quantity-arrow-minusminimumlenght" id=""
+                                                                onclick="Minusinputvalueminimumlenght()">
+                                                                <svg width="15" height="15" viewBox="0 0 22 22"
+                                                                    fill="none" xmlns="http://www.w3.org/2000/svg">
+                                                                    <path
+                                                                        d="M15.8087 8.51656C15.6369 8.34583 15.4046 8.25 15.1624 8.25C14.9202 8.25 14.6879 8.34583 14.5162 8.51656L11.2253 11.7616L7.98034 8.51656C7.80859 8.34583 7.57626 8.25 7.33409 8.25C7.09192 8.25 6.85958 8.34583 6.68784 8.51656C6.60192 8.60178 6.53372 8.70316 6.48718 8.81486C6.44065 8.92657 6.41669 9.04638 6.41669 9.16739C6.41669 9.2884 6.44065 9.40822 6.48718 9.51992C6.53372 9.63163 6.60192 9.73301 6.68784 9.81823L10.5745 13.7049C10.6597 13.7908 10.7611 13.859 10.8728 13.9055C10.9845 13.9521 11.1043 13.976 11.2253 13.976C11.3463 13.976 11.4662 13.9521 11.5779 13.9055C11.6896 13.859 11.791 13.7908 11.8762 13.7049L15.8087 9.81823C15.8946 9.73301 15.9628 9.63163 16.0093 9.51992C16.0559 9.40822 16.0798 9.2884 16.0798 9.16739C16.0798 9.04638 16.0559 8.92657 16.0093 8.81486C15.9628 8.70316 15.8946 8.60178 15.8087 8.51656Z"
+                                                                        fill="#000000"></path>
+                                                                </svg>
+                                                            </button>
+                                                            <input class="number" type="number" id="minimumlenght"
+                                                                value="1" readonly />
+                                                            <button class="quantity-arrow-plusminimumlenght"
+                                                                id="plusminimumlenght"
+                                                                onclick="Maxinputvaluemaximumlenght()">
+                                                                <svg viewBox="0 0 22 22" fill="none"
+                                                                    xmlns="http://www.w3.org/2000/svg">
+                                                                    <path
+                                                                        d="M15.8087 8.51656C15.6369 8.34583 15.4046 8.25 15.1624 8.25C14.9202 8.25 14.6879 8.34583 14.5162 8.51656L11.2253 11.7616L7.98034 8.51656C7.80859 8.34583 7.57626 8.25 7.33409 8.25C7.09192 8.25 6.85958 8.34583 6.68784 8.51656C6.60192 8.60178 6.53372 8.70316 6.48718 8.81486C6.44065 8.92657 6.41669 9.04638 6.41669 9.16739C6.41669 9.2884 6.44065 9.40822 6.48718 9.51992C6.53372 9.63163 6.60192 9.73301 6.68784 9.81823L10.5745 13.7049C10.6597 13.7908 10.7611 13.859 10.8728 13.9055C10.9845 13.9521 11.1043 13.976 11.2253 13.976C11.3463 13.976 11.4662 13.9521 11.5779 13.9055C11.6896 13.859 11.791 13.7908 11.8762 13.7049L15.8087 9.81823C15.8946 9.73301 15.9628 9.63163 16.0093 9.51992C16.0559 9.40822 16.0798 9.2884 16.0798 9.16739C16.0798 9.04638 16.0559 8.92657 16.0093 8.81486C15.9628 8.70316 15.8946 8.60178 15.8087 8.51656Z"
+                                                                        fill="#000000"></path>
+                                                                </svg>
+                                                            </button>
+                                                        </div>
+                                                    </div>
+                                                    <div class="displaymodel">
+                                                        <div class="div_num">
+                                                            <label class="lable-number" for="maximumlenght">Maximum Piece
+                                                                Length</label>
+                                                                <button class="quantity-arrow-minusmaximumlenght" id="minusmaximumlenght"
+                                                                onclick="Minusinputvaluemaximummaximumlenght()">
+                                                                <svg width="15" height="15" viewBox="0 0 22 22"
+                                                                    fill="none" xmlns="http://www.w3.org/2000/svg">
+                                                                    <path
+                                                                        d="M15.8087 8.51656C15.6369 8.34583 15.4046 8.25 15.1624 8.25C14.9202 8.25 14.6879 8.34583 14.5162 8.51656L11.2253 11.7616L7.98034 8.51656C7.80859 8.34583 7.57626 8.25 7.33409 8.25C7.09192 8.25 6.85958 8.34583 6.68784 8.51656C6.60192 8.60178 6.53372 8.70316 6.48718 8.81486C6.44065 8.92657 6.41669 9.04638 6.41669 9.16739C6.41669 9.2884 6.44065 9.40822 6.48718 9.51992C6.53372 9.63163 6.60192 9.73301 6.68784 9.81823L10.5745 13.7049C10.6597 13.7908 10.7611 13.859 10.8728 13.9055C10.9845 13.9521 11.1043 13.976 11.2253 13.976C11.3463 13.976 11.4662 13.9521 11.5779 13.9055C11.6896 13.859 11.791 13.7908 11.8762 13.7049L15.8087 9.81823C15.8946 9.73301 15.9628 9.63163 16.0093 9.51992C16.0559 9.40822 16.0798 9.2884 16.0798 9.16739C16.0798 9.04638 16.0559 8.92657 16.0093 8.81486C15.9628 8.70316 15.8946 8.60178 15.8087 8.51656Z"
+                                                                        fill="#000000"></path>
+                                                                </svg>
+                                                            </button>
+                                                            <input class="number" type="number" id="maximumlenght"
+                                                                value="7" readonly />
+                                                            <button class="quantity-arrow-plusmaximumlenght" id="plusmaximumlenght"
+                                                                onclick="Maxinputvaluemaximummaximumlenght()">
+                                                                <svg viewBox="0 0 22 22" fill="none"
+                                                                    xmlns="http://www.w3.org/2000/svg">
+                                                                    <path
+                                                                        d="M15.8087 8.51656C15.6369 8.34583 15.4046 8.25 15.1624 8.25C14.9202 8.25 14.6879 8.34583 14.5162 8.51656L11.2253 11.7616L7.98034 8.51656C7.80859 8.34583 7.57626 8.25 7.33409 8.25C7.09192 8.25 6.85958 8.34583 6.68784 8.51656C6.60192 8.60178 6.53372 8.70316 6.48718 8.81486C6.44065 8.92657 6.41669 9.04638 6.41669 9.16739C6.41669 9.2884 6.44065 9.40822 6.48718 9.51992C6.53372 9.63163 6.60192 9.73301 6.68784 9.81823L10.5745 13.7049C10.6597 13.7908 10.7611 13.859 10.8728 13.9055C10.9845 13.9521 11.1043 13.976 11.2253 13.976C11.3463 13.976 11.4662 13.9521 11.5779 13.9055C11.6896 13.859 11.791 13.7908 11.8762 13.7049L15.8087 9.81823C15.8946 9.73301 15.9628 9.63163 16.0093 9.51992C16.0559 9.40822 16.0798 9.2884 16.0798 9.16739C16.0798 9.04638 16.0559 8.92657 16.0093 8.81486C15.9628 8.70316 15.8946 8.60178 15.8087 8.51656Z"
+                                                                        fill="#000000"></path>
+                                                                </svg>
+                                                            </button>
+                                                        </div>
+                                                        <div class="div_num">
+                                                            <label class="lable-number" for="simvoles">Separators</label>
+                                                            <button class="quantity-arrow-minussimvoles" id="minussimvoles"
+                                                            onclick="Minusinputvalueminussimvoles() ">
+                                                            <svg width="15" height="15" viewBox="0 0 22 22"
+                                                                fill="none" xmlns="http://www.w3.org/2000/svg">
+                                                                <path
+                                                                    d="M15.8087 8.51656C15.6369 8.34583 15.4046 8.25 15.1624 8.25C14.9202 8.25 14.6879 8.34583 14.5162 8.51656L11.2253 11.7616L7.98034 8.51656C7.80859 8.34583 7.57626 8.25 7.33409 8.25C7.09192 8.25 6.85958 8.34583 6.68784 8.51656C6.60192 8.60178 6.53372 8.70316 6.48718 8.81486C6.44065 8.92657 6.41669 9.04638 6.41669 9.16739C6.41669 9.2884 6.44065 9.40822 6.48718 9.51992C6.53372 9.63163 6.60192 9.73301 6.68784 9.81823L10.5745 13.7049C10.6597 13.7908 10.7611 13.859 10.8728 13.9055C10.9845 13.9521 11.1043 13.976 11.2253 13.976C11.3463 13.976 11.4662 13.9521 11.5779 13.9055C11.6896 13.859 11.791 13.7908 11.8762 13.7049L15.8087 9.81823C15.8946 9.73301 15.9628 9.63163 16.0093 9.51992C16.0559 9.40822 16.0798 9.2884 16.0798 9.16739C16.0798 9.04638 16.0559 8.92657 16.0093 8.81486C15.9628 8.70316 15.8946 8.60178 15.8087 8.51656Z"
+                                                                    fill="#000000"></path>
+                                                            </svg>
+                                                        </button>
+                                                        <input class="number" type="number" id="simvoles" value="2"
+                                                            readonly />
+                                                        <button class="quantity-arrow-plussimvoles" id="plussimvoles"
+                                                            onclick="Maxinputvalueplussimvoles()">
+                                                            <svg viewBox="0 0 22 22" fill="none"
+                                                                xmlns="http://www.w3.org/2000/svg">
+                                                                <path
+                                                                    d="M15.8087 8.51656C15.6369 8.34583 15.4046 8.25 15.1624 8.25C14.9202 8.25 14.6879 8.34583 14.5162 8.51656L11.2253 11.7616L7.98034 8.51656C7.80859 8.34583 7.57626 8.25 7.33409 8.25C7.09192 8.25 6.85958 8.34583 6.68784 8.51656C6.60192 8.60178 6.53372 8.70316 6.48718 8.81486C6.44065 8.92657 6.41669 9.04638 6.41669 9.16739C6.41669 9.2884 6.44065 9.40822 6.48718 9.51992C6.53372 9.63163 6.60192 9.73301 6.68784 9.81823L10.5745 13.7049C10.6597 13.7908 10.7611 13.859 10.8728 13.9055C10.9845 13.9521 11.1043 13.976 11.2253 13.976C11.3463 13.976 11.4662 13.9521 11.5779 13.9055C11.6896 13.859 11.791 13.7908 11.8762 13.7049L15.8087 9.81823C15.8946 9.73301 15.9628 9.63163 16.0093 9.51992C16.0559 9.40822 16.0798 9.2884 16.0798 9.16739C16.0798 9.04638 16.0559 8.92657 16.0093 8.81486C15.9628 8.70316 15.8946 8.60178 15.8087 8.51656Z"
+                                                                    fill="#000000"></path>
+                                                            </svg>
+                                                        </button>
+                                                        </div>
+                                                    </div>
+                                                    <div class="displaymodel">
+                                                        <div class="div_num">
+                                                            <label class="lable-number" for="dzaynavorner">Vowels</label>
+                                                            <button class="quantity-arrow-minusdzaynavorner" id="minusdzaynavorner"
+                                                                onclick="Minusinputvalueminusdzaynavorner()">
+                                                                <svg width="15" height="15" viewBox="0 0 22 22"
+                                                                    fill="none" xmlns="http://www.w3.org/2000/svg">
+                                                                    <path
+                                                                        d="M15.8087 8.51656C15.6369 8.34583 15.4046 8.25 15.1624 8.25C14.9202 8.25 14.6879 8.34583 14.5162 8.51656L11.2253 11.7616L7.98034 8.51656C7.80859 8.34583 7.57626 8.25 7.33409 8.25C7.09192 8.25 6.85958 8.34583 6.68784 8.51656C6.60192 8.60178 6.53372 8.70316 6.48718 8.81486C6.44065 8.92657 6.41669 9.04638 6.41669 9.16739C6.41669 9.2884 6.44065 9.40822 6.48718 9.51992C6.53372 9.63163 6.60192 9.73301 6.68784 9.81823L10.5745 13.7049C10.6597 13.7908 10.7611 13.859 10.8728 13.9055C10.9845 13.9521 11.1043 13.976 11.2253 13.976C11.3463 13.976 11.4662 13.9521 11.5779 13.9055C11.6896 13.859 11.791 13.7908 11.8762 13.7049L15.8087 9.81823C15.8946 9.73301 15.9628 9.63163 16.0093 9.51992C16.0559 9.40822 16.0798 9.2884 16.0798 9.16739C16.0798 9.04638 16.0559 8.92657 16.0093 8.81486C15.9628 8.70316 15.8946 8.60178 15.8087 8.51656Z"
+                                                                        fill="#000000"></path>
+                                                                </svg>
+                                                            </button>
+                                                            <input class="number" type="number" id="dzaynavorner"
+                                                                value="4" />
+                                                            <button class="quantity-arrow-plusdzaynavorner" id="plusdzaynavorner"
+                                                                onclick="Maxinputvalueplusdzaynavorner()">
+                                                                <svg viewBox="0 0 22 22" fill="none"
+                                                                    xmlns="http://www.w3.org/2000/svg">
+                                                                    <path
+                                                                        d="M15.8087 8.51656C15.6369 8.34583 15.4046 8.25 15.1624 8.25C14.9202 8.25 14.6879 8.34583 14.5162 8.51656L11.2253 11.7616L7.98034 8.51656C7.80859 8.34583 7.57626 8.25 7.33409 8.25C7.09192 8.25 6.85958 8.34583 6.68784 8.51656C6.60192 8.60178 6.53372 8.70316 6.48718 8.81486C6.44065 8.92657 6.41669 9.04638 6.41669 9.16739C6.41669 9.2884 6.44065 9.40822 6.48718 9.51992C6.53372 9.63163 6.60192 9.73301 6.68784 9.81823L10.5745 13.7049C10.6597 13.7908 10.7611 13.859 10.8728 13.9055C10.9845 13.9521 11.1043 13.976 11.2253 13.976C11.3463 13.976 11.4662 13.9521 11.5779 13.9055C11.6896 13.859 11.791 13.7908 11.8762 13.7049L15.8087 9.81823C15.8946 9.73301 15.9628 9.63163 16.0093 9.51992C16.0559 9.40822 16.0798 9.2884 16.0798 9.16739C16.0798 9.04638 16.0559 8.92657 16.0093 8.81486C15.9628 8.70316 15.8946 8.60178 15.8087 8.51656Z"
+                                                                        fill="#000000"></path>
+                                                                </svg>
+                                                            </button>
+                                                        </div>
+                                                        <div class="div_num">
+                                                            <label class="lable-number" for="bovandak">Consonants</label>
+                                                            <button class="quantity-arrow-minusbovandak"
+                                                                id="minusbovandak" onclick="Minusinputvaluebovandak()">
+                                                                <svg width="15" height="15" viewBox="0 0 22 22"
+                                                                    fill="none" xmlns="http://www.w3.org/2000/svg">
+                                                                    <path
+                                                                        d="M15.8087 8.51656C15.6369 8.34583 15.4046 8.25 15.1624 8.25C14.9202 8.25 14.6879 8.34583 14.5162 8.51656L11.2253 11.7616L7.98034 8.51656C7.80859 8.34583 7.57626 8.25 7.33409 8.25C7.09192 8.25 6.85958 8.34583 6.68784 8.51656C6.60192 8.60178 6.53372 8.70316 6.48718 8.81486C6.44065 8.92657 6.41669 9.04638 6.41669 9.16739C6.41669 9.2884 6.44065 9.40822 6.48718 9.51992C6.53372 9.63163 6.60192 9.73301 6.68784 9.81823L10.5745 13.7049C10.6597 13.7908 10.7611 13.859 10.8728 13.9055C10.9845 13.9521 11.1043 13.976 11.2253 13.976C11.3463 13.976 11.4662 13.9521 11.5779 13.9055C11.6896 13.859 11.791 13.7908 11.8762 13.7049L15.8087 9.81823C15.8946 9.73301 15.9628 9.63163 16.0093 9.51992C16.0559 9.40822 16.0798 9.2884 16.0798 9.16739C16.0798 9.04638 16.0559 8.92657 16.0093 8.81486C15.9628 8.70316 15.8946 8.60178 15.8087 8.51656Z"
+                                                                        fill="#000000"></path>
+                                                                </svg>
+                                                            </button>
+                                                            <input class="number" type="number" id="bovandak"
+                                                                value="6" />
+                                                            <button class="quantity-arrow-plusbovandak"
+                                                                id="plusbovandak" onclick="Maxinputvaluebovandak()">
+                                                                <svg viewBox="0 0 22 22" fill="none"
+                                                                    xmlns="http://www.w3.org/2000/svg">
+                                                                    <path
+                                                                        d="M15.8087 8.51656C15.6369 8.34583 15.4046 8.25 15.1624 8.25C14.9202 8.25 14.6879 8.34583 14.5162 8.51656L11.2253 11.7616L7.98034 8.51656C7.80859 8.34583 7.57626 8.25 7.33409 8.25C7.09192 8.25 6.85958 8.34583 6.68784 8.51656C6.60192 8.60178 6.53372 8.70316 6.48718 8.81486C6.44065 8.92657 6.41669 9.04638 6.41669 9.16739C6.41669 9.2884 6.44065 9.40822 6.48718 9.51992C6.53372 9.63163 6.60192 9.73301 6.68784 9.81823L10.5745 13.7049C10.6597 13.7908 10.7611 13.859 10.8728 13.9055C10.9845 13.9521 11.1043 13.976 11.2253 13.976C11.3463 13.976 11.4662 13.9521 11.5779 13.9055C11.6896 13.859 11.791 13.7908 11.8762 13.7049L15.8087 9.81823C15.8946 9.73301 15.9628 9.63163 16.0093 9.51992C16.0559 9.40822 16.0798 9.2884 16.0798 9.16739C16.0798 9.04638 16.0559 8.92657 16.0093 8.81486C15.9628 8.70316 15.8946 8.60178 15.8087 8.51656Z"
+                                                                        fill="#000000"></path>
+                                                                </svg>
+                                                            </button>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <div class="butonModel">
+                                                    <button class="btn-seve" onclick="resetPassword()">Reset</button>
+                                                    <button class="btn-seve" onclick="genPassword2()"
+                                                        type="button">Check</button>
+                                                </div>
+                                            </div>
+                                            <div class="modal-footer">
+                                                <button type="button" class="btn btn-secondary"
+                                                    data-bs-dismiss="modal">Save</button>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div id="silvAdvertising">
+                            <div class="Advertising">
+                                <h3 class="add">Advertising</h3>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="conteiner">
+        <div class="section">
+            <div>
+                <h1 class="zaglav" id="zaglava">The secret link will expire and will be removed after</h1>
+            </div>
+            <form action="#" class="uri" id="uriform">
+                <div class="formdiv">
+                    <div class="dropdawn">
+                        <label for="sevendeyselect" class="sevendayselect">
+                            <select id="sevendeyselect" class="sevenday" name="navyOp">
+                                <option selected="selected">7 days</option>
+                            </select>
+                        </label>
+                        <label for="sevendropselect" class="sevendropselect">
+                            <select id="sevendropselect" class="sevendrop" name="navyOp">
+                                <option selected="selected">Only 1</option>
+                            </select>
+                        </label>
+                        <img class="cheer" src="./img/Chevron down.png" alt="">
+                    </div>
+                    <div class="inpintv">
+                        <div>
+                            <div class="display">
+                                <div class="blue">
+                                    <p class="blue_p-content">Passphrase locking</p>
+                                </div>
+                                <div class="necessary">
+                                    <input class="notnecessary" type="text" name="" id="" placeholder="not necessary :">
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="flex">
+                        <div class="mar">
+                            <button class="check" type="button" name="" id="checked" value="false"></button>
+                            <div class="stile_grap">
+                                <h3>Use the 1-click access correction mechanism</h3>
+                                <p>Helps avoid chat systems and URL crawlers reducing views.</p>
+                            </div>
+                        </div>
+                        <div class="mar" id="allow">
+                            <button class="check" type="button" name="" id="checked1" value="default"></button>
+                            <div class="stile_grap">
+                                <h3>Allow immediate deletion</h3>
+                                <p>Allow users to delete a shipment after receiving it.</p>
+                            </div>
+                        </div>
+                        <div class="save">
+                            <div class="block_Save">
+                                <a class="save_for" href="#">
+                                    <div>Save</div>
+                                    <div class="save_line"></div>
+                                </a>
+                            </div>
+                            <h4 class="fontsize">the above settings as default page settings.</h4>
+                        </div>
+                        <a href="#"><button class="send">Send</button></a>
+                    </div>
+                </div>
+                <div id="Advertising">
+                    <div class="Advertising">
+                        <h3 class="add">Advertising</h3>
+                    </div>
+                </div>
+            </form>
+        </div>
+    </div>
+    <div class="conteiner">
+        <footer>
+            <div class="logo_block">
+                <div class="block_one">
+                    <div class="logo_div_footer">
+                        <a href="#">
+                            <img class="logo"
+                                src="./img/logo.png"
+                                alt="">
+                        </a>
+                    </div>
+                    <div>
+                        <h1 class="logoName">Password Pusher</h1>
+                    </div>
+                </div>
+                <div class="block_two">
+                    <div class="block_Sign">
+                        <a class="Home_page" href="#">
+                            <div>Home page</div>
+                            <div class="Home_pageline"></div>
+                        </a>
+                    </div>
+                    <div class="dropdown">
+                        <div class="dropdown">
+                            <button onclick="myFunction1()" id="dropbtn" class="dropbtn">Resources</button>
+                            <div id="img-dovn">   <svg width="22" height="22" viewBox="0 0 22 22" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                <path d="M15.8087 8.51656C15.6369 8.34583 15.4046 8.25 15.1624 8.25C14.9202 8.25 14.6879 8.34583 14.5162 8.51656L11.2253 11.7616L7.98034 8.51656C7.80859 8.34583 7.57626 8.25 7.33409 8.25C7.09192 8.25 6.85958 8.34583 6.68784 8.51656C6.60192 8.60178 6.53372 8.70316 6.48718 8.81486C6.44065 8.92657 6.41669 9.04638 6.41669 9.16739C6.41669 9.2884 6.44065 9.40822 6.48718 9.51992C6.53372 9.63163 6.60192 9.73301 6.68784 9.81823L10.5745 13.7049C10.6597 13.7908 10.7611 13.859 10.8728 13.9055C10.9845 13.9521 11.1043 13.976 11.2253 13.976C11.3463 13.976 11.4662 13.9521 11.5779 13.9055C11.6896 13.859 11.791 13.7908 11.8762 13.7049L15.8087 9.81823C15.8946 9.73301 15.9628 9.63163 16.0093 9.51992C16.0559 9.40822 16.0798 9.2884 16.0798 9.16739C16.0798 9.04638 16.0559 8.92657 16.0093 8.81486C15.9628 8.70316 15.8946 8.60178 15.8087 8.51656Z" fill="#E6E7EF"/>
+                                </svg>
+                                        </div>
+                            <div id="myDropdown1" class="dropdown-content">
+                                <div class="line-stile"> 
+                                    <a class="dropdown-alist" href="#home">Docker containers</a>
+                                    <div class="line-dropdawn"></div>
+                                </div>
+                                <div class="line-stile"> 
+                                    <a class="dropdown-alist" href="#home">FAQ</a>
+                                    <div class="line-dropdawn"></div>
+                                </div>
+                                <div class="line-stile"> 
+                                    <a class="dropdown-alist" href="#home">JSON API</a>
+                                    <div class="line-dropdawn"></div>
+                                </div>
+                                <div class="line-stile"> 
+                                    <a class="dropdown-alist" href="#home">Key Generator</a>
+                                    <div class="line-dropdawn"></div>
+                                </div>
+                                <div class="line-stile"> 
+                                    <a class="dropdown-alist" href="#home">Source code</a>
+                                    <div class="line-dropdawn"></div>
+                                </div>
+                                <div class="line-stile"> 
+                                    <a class="dropdown-alist" href="#home">Tools</a>
+                                    <div class="line-dropdawn"></div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="dropdown">
+                        <button onclick="myFunction2()" id="dropbtn" class="dropbtn" type="button">About program</button>
+                        <div id="img-down">   
+                            <svg width="22" height="22" viewBox="0 0 22 22" fill="none" xmlns="http://www.w3.org/2000/svg">
+                            <path d="M15.8087 8.51656C15.6369 8.34583 15.4046 8.25 15.1624 8.25C14.9202 8.25 14.6879 8.34583 14.5162 8.51656L11.2253 11.7616L7.98034 8.51656C7.80859 8.34583 7.57626 8.25 7.33409 8.25C7.09192 8.25 6.85958 8.34583 6.68784 8.51656C6.60192 8.60178 6.53372 8.70316 6.48718 8.81486C6.44065 8.92657 6.41669 9.04638 6.41669 9.16739C6.41669 9.2884 6.44065 9.40822 6.48718 9.51992C6.53372 9.63163 6.60192 9.73301 6.68784 9.81823L10.5745 13.7049C10.6597 13.7908 10.7611 13.859 10.8728 13.9055C10.9845 13.9521 11.1043 13.976 11.2253 13.976C11.3463 13.976 11.4662 13.9521 11.5779 13.9055C11.6896 13.859 11.791 13.7908 11.8762 13.7049L15.8087 9.81823C15.8946 9.73301 15.9628 9.63163 16.0093 9.51992C16.0559 9.40822 16.0798 9.2884 16.0798 9.16739C16.0798 9.04638 16.0559 8.92657 16.0093 8.81486C15.9628 8.70316 15.8946 8.60178 15.8087 8.51656Z" fill="#E6E7EF"/>
+                            </svg>
+                        </div>
+                        <div style="right: 0px;width: 210px;height: 145px;" id="myDropdown2" class="dropdown-content">
+                          
+                          <div class="line-stile"> 
+                            <a class="dropdown-alist" href="#home">Review</a>
+                            <div class="line-dropdawn"></div>
+                        </div>                          
+                    
+                        <div class="line-stile"> 
+                            <a class="dropdown-alist" href="#home">Help me translate!</a>
+                            <div class="line-dropdawn"></div>
+                        </div>                          
+                        
+                        <div class="line-stile"> 
+                            <a class="dropdown-alist" href="#home">Post a review</a>
+                            <div class="line-dropdawn"></div>
+                        </div>                        
+                    </div>
+                </div>
+            </div>
+        </div>
+    </footer>
+</div>
+    <script src="./js/index.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.8/dist/umd/popper.min.js" integrity="sha384-I7E8VVD/ismYTF4hNIPjVp/Zjvgyol6VFvRkX/vR+Vc4jQkC+hVqc2pM8ODewa9r" crossorigin="anonymous"></script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.min.js" integrity="sha384-0pUGZvbkm6XF6gxjEnlmuGrJXVbNuzT9qBBavbLwCsOGabYfZo0T0to5eqruptLy" crossorigin="anonymous"></script>
+</body>
+
+</html>
